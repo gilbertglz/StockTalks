@@ -6,58 +6,69 @@ import seaborn as sns
 from bs4 import BeautifulSoup as bs
 import json
 import requests
+import re
 
-
+# Define a function to extract stock ticker symbols using regex
+def extract_stock_tickers(text):
+    regex_pattern = r'\b[A-Z][A-Za-z0-9]+\b'  # Regex pattern to match uppercase letters (potential ticker symbols)
+    matches = re.findall(regex_pattern, text)
+    return ', '.join(matches)
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    pd.set_option("display.max_columns", None)
+    pd.set_option("display.max_rows", None)
+
     # Define the subreddit to scrape
-    subreddit_name = 'stocks'
-    # StockMarket
-    # Specify the number of posts to scrape
-    num_posts = 50
-
-    # Make a GET request to the Reddit API
-    url = f'https://www.reddit.com/r/{subreddit_name}/top.json?sort=new&limit={num_posts}'
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(url, headers=headers)
-
-    # Process the JSON response
-    data = response.json()
-    posts = data['data']['children']
+    subreddit_name = ['stocks', 'StockMarket']
+    num_posts = 45
     lists = []
-    for post in posts:
-        lists.append(post['data'])
-    # print(posts[0]['data'])
-    # Extract the titles from the posts
+    for name in subreddit_name:
+        # Make a GET request to the Reddit API
+        url = f'https://www.reddit.com/r/{name}/top.json?sort=top&limit={num_posts}&t=week'
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(url, headers=headers)
 
-    # Create a DataFrame from the titles
-    colRemoves = ['subreddit', 'approved_at_utc', 'is_video', 'media', 'num_crossposts', 'created_utc',
-                  'subreddit_subscribers', 'url', 'stickied', 'parent_whitelist_status', 'permalink',
-                  'author_flair_text_color', 'author_patreon_flair', 'mod_reports', 'contest_mode', 'whitelist_status',
-                  'send_replies', 'num_comments', 'discussion_type', 'author', 'report_reasons', 'is_robot_indexable',
-                  'id', 'link_flair_background_color', 'removal_reason', 'mod_reason_by', 'author_is_blocked',
-                  'subreddit_id', 'distinguished', 'num_reports', 'removed_by', 'visited', 'treatment_tags',
-                  'author_flair_text', 'locked', 'spoiler', 'can_gild', 'link_flair_template_id', 'media_only',
-                  'awarders', 'all_awardings', 'over_18', 'pinned', 'is_crosspostable', 'no_follow', 'archived',
-                  'view_count', 'banned_at_utc', 'suggested_sort', 'likes', 'selftext_html', 'allow_live_comments',
-                  'domain', 'author_flair_type', 'banned_by', 'removed_by_category', 'wls', 'link_flair_type',
-                  'created', 'mod_note', 'is_self', 'content_categories', 'gildings', 'author_flair_richtext',
-                  'author_flair_css_class', 'edited', 'thumbnail', 'author_premium', 'is_created_from_ads_ui',
-                  'approved_by', 'author_flair_background_color', 'author_flair_template_id', 'author_fullname',
-                  'can_mod_post', 'category', 'clicked', 'hidden', 'user_reports', 'total_awards_received',
-                  'top_awarded_type', 'subreddit_name_prefixed', 'subreddit_type', 'gilded', 'hide_score', 'is_meta',
-                  'is_original_content', 'is_reddit_media_domain', 'link_flair_css_class', 'link_flair_richtext',
-                  'media_embed', 'secure_media_embed', 'secure_media', 'saved', 'quarantine', 'pwls', 'name',
-                  'mod_reason_title', 'link_flair_text_color', 'score']
+        # Process the JSON response
+        data = response.json()
+        posts = data['data']['children']
+
+        for post in posts:
+            lists.append(post['data'])
+
+    columns_to_remove = ['approved_at_utc', 'is_video', 'media', 'num_crossposts', 'created_utc',
+                         'subreddit_subscribers', 'url', 'stickied', 'parent_whitelist_status', 'permalink',
+                         'author_flair_text_color', 'author_patreon_flair', 'mod_reports', 'contest_mode',
+                         'whitelist_status',
+                         'send_replies', 'num_comments', 'discussion_type', 'author', 'report_reasons',
+                         'is_robot_indexable',
+                         'id', 'link_flair_background_color', 'removal_reason', 'mod_reason_by', 'author_is_blocked',
+                         'subreddit_id', 'distinguished', 'num_reports', 'removed_by', 'visited', 'treatment_tags',
+                         'author_flair_text', 'locked', 'spoiler', 'can_gild', 'link_flair_template_id', 'media_only',
+                         'awarders', 'all_awardings', 'over_18', 'pinned', 'is_crosspostable', 'no_follow', 'archived',
+                         'view_count', 'banned_at_utc', 'suggested_sort', 'likes', 'selftext_html',
+                         'allow_live_comments',
+                         'domain', 'author_flair_type', 'banned_by', 'removed_by_category', 'wls', 'link_flair_type',
+                         'created', 'mod_note', 'is_self', 'content_categories', 'gildings', 'author_flair_richtext',
+                         'author_flair_css_class', 'edited', 'thumbnail', 'author_premium', 'is_created_from_ads_ui',
+                         'approved_by', 'author_flair_background_color', 'author_flair_template_id', 'author_fullname',
+                         'can_mod_post', 'category', 'clicked', 'hidden', 'user_reports', 'total_awards_received',
+                         'top_awarded_type', 'subreddit_name_prefixed', 'subreddit_type', 'gilded', 'hide_score',
+                         'is_meta',
+                         'is_original_content', 'is_reddit_media_domain', 'link_flair_css_class', 'link_flair_richtext',
+                         'media_embed', 'secure_media_embed', 'secure_media', 'saved', 'quarantine', 'pwls', 'name',
+                         'mod_reason_title', 'link_flair_text_color', 'score', 'url_overridden_by_dest', 'gallery_data',
+                         'is_gallery', 'thumbnail_height', 'media_metadata', 'preview', 'thumbnail_width', 'downs',
+                         'post_hint']
+    # Create a DataFrame from the scrape
     df = pd.DataFrame(lists)
-    df = df.drop(colRemoves, axis='columns')
-    df = df.sort_index(axis='columns', ascending=False)
-    print(df)
+    # Remove Columns not needed
+    df = df.drop(columns_to_remove, axis='columns')
+    # Move text column to end
+    columnToMove = df.pop('selftext')
+    df = df.sort_index(axis='columns', ascending=True)
+    df['selftext'] = columnToMove
+    print(df.to_string())
+    # print(df.columns)
+    df['Stock'] = df['title'].apply(extract_stock_tickers)
+    print(df['Stock'])
 
-    # print(df.columns.values)
-    # Print the DataFrame
-    # print(df)
-    # Process and print the titles of the scraped posts
-    # for post in posts:
-    #     title = post['data']['title']
-    #     print(title)
