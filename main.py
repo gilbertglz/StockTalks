@@ -22,7 +22,10 @@ def find_company_ticker(company):
     response = requests.get(url, headers=headers)
     data = response.json()
     if len(data['quotes']) > 0:
-        return data['quotes'][0]['symbol']
+        if data['quotes'][0]['quoteType'] not in ['EQUITY']:
+            return ""
+        else:
+            return data['quotes'][0]['symbol']
     else:
         return ""
 
@@ -82,10 +85,10 @@ if __name__ == '__main__':
     df = df.sort_index(axis='columns', ascending=True)
     df['selftext'] = columnToMove
     df['Stock'] = df['title'].apply(extract_stock_tickers)
+    companyNamesSymbols = {}
     companyNameFull = []
     companySymbols = []
     for stockCompany in df['Stock']:
-
         companyRow = stockCompany.split(',')
         companyNameFull = [company.strip() for company in companyRow]
         # print(companyNameFull)
@@ -93,11 +96,15 @@ if __name__ == '__main__':
 
         # pass to yf to check for ticker
         for singleCompany in companyNameFull:
-            if singleCompany.strip() != "":
-                singleCompany = find_company_ticker(singleCompany)
-            # print(singleCompany)
+            if singleCompany in companyNamesSymbols:
+                singleCompany = companyNamesSymbols[singleCompany]
+            elif singleCompany.strip() != "":
+                companyNamesSymbols[singleCompany] = find_company_ticker(singleCompany)
+                singleCompany = companyNamesSymbols[singleCompany]
             updatedStockSymbol.append(singleCompany)
-        companyRow = (',').join(updatedStockSymbol)
+        updatedStockSymbol = [item for item in updatedStockSymbol if item.strip() != ""]
+        companyRow = ','.join(updatedStockSymbol)
         companySymbols.append(companyRow)
     df['Symbols'] = companySymbols
-    print(df['Symbols'])
+    print(df.to_string)
+    df.to_csv("file.csv")
