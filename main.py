@@ -8,11 +8,25 @@ import json
 import requests
 import re
 
+
 # Define a function to extract stock ticker symbols using regex
 def extract_stock_tickers(text):
-    regex_pattern = r'\b[A-Z][A-Za-z0-9]+\b'  # Regex pattern to match uppercase letters (potential ticker symbols)
+    regex_pattern = r'\b[A-Z$][A-Za-z0-9]+\b'  # Regex pattern to match uppercase letters (potential ticker symbols)
     matches = re.findall(regex_pattern, text)
     return ', '.join(matches)
+
+
+def find_company_ticker(company):
+    url = f'https://query2.finance.yahoo.com/v1/finance/search?q={company}'
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    response = requests.get(url, headers=headers)
+    data = response.json()
+    if len(data['quotes']) > 0:
+        return data['quotes'][0]['symbol']
+    else:
+        return ""
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     pd.set_option("display.max_columns", None)
@@ -67,8 +81,23 @@ if __name__ == '__main__':
     columnToMove = df.pop('selftext')
     df = df.sort_index(axis='columns', ascending=True)
     df['selftext'] = columnToMove
-    print(df.to_string())
-    # print(df.columns)
     df['Stock'] = df['title'].apply(extract_stock_tickers)
-    print(df['Stock'])
+    companyNameFull = []
+    companySymbols = []
+    for stockCompany in df['Stock']:
 
+        companyRow = stockCompany.split(',')
+        companyNameFull = [company.strip() for company in companyRow]
+        # print(companyNameFull)
+        updatedStockSymbol = []
+
+        # pass to yf to check for ticker
+        for singleCompany in companyNameFull:
+            if singleCompany.strip() != "":
+                singleCompany = find_company_ticker(singleCompany)
+            # print(singleCompany)
+            updatedStockSymbol.append(singleCompany)
+        companyRow = (',').join(updatedStockSymbol)
+        companySymbols.append(companyRow)
+    df['Symbols'] = companySymbols
+    print(df['Symbols'])
