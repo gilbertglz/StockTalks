@@ -41,7 +41,7 @@ if __name__ == '__main__':
     lists = []
     for name in subreddit_name:
         # Make a GET request to the Reddit API
-        url = f'https://www.reddit.com/r/{name}/top.json?sort=top&limit={num_posts}&t=week'
+        url = f'https://www.reddit.com/r/{name}/new.json?sort=new&limit={num_posts}&t=week'
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers)
 
