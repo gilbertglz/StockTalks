@@ -1,1120 +1,301 @@
-,link_flair_text,subreddit,title,ups,upvote_ratio,selftext,Stock,Symbols
-0,Company Discussion,stocks,What happens to elon and tesla if twitter goes bankrupt?,0,0.38,It looks like meta is going to kill twitter if the 70m users on threads number is true. So let's say twitter goes bankrupt and elon is still on the hook for his 40b loan against his tesla shares. what are the ramifications of this?,What,WHATS.BR
-1,Company Discussion,stocks,Thoughts on NDAQ purchasing Calypso/Adenza,8,0.83,"NDAQ has been outperforming the s&amp;p 500 for nearly a decade until now. When news of the deal purchasing Adenza (formerly calypso) broke the stock tumbled to $50
-
-NDAQ says they are pivoting toward fintech rather than just exchange operation due to narrowing margins and limited growth. Not only did they purchase Adenza but they did so at what appears to be a very expensive price. Calypso was purchased by private equity for ~3.4b in 2021. Only 2 years later it was sold once more for 10.4b
-
-I don't understand why they waited for 5% higher interest rates to buy this company instead of outbidding the private equity firm. Makes me mistrust management. I do not like roll-up companies, if NDAQs only way to grow is buying more companies at expensive prices I'd rather look elsewhere.
-
-What are your thoughts on Adenza, can it contribute to NDAQ in such a way that it is worth the cost of debt?","Thoughts, NDAQ, Calypso, Adenza",NDAQ
-2,Company Analysis,stocks,CIM-B: Higher for Longer,2,0.63,"As the market continues to price in higher interest rates for longer, there is opportunity in owning floating rate securities.  CIM-B is a preferred stock issued by Chimera Investment Corporation with a fixed rate coupon of 8.0%.  CIM-B trades at a 15% discount to par leading to a current rate of 9.4%.
-
-On 3/30/24, 9 months from now, CIM-B switches to a floating rate security of 5.79% + 3m SOFR + 0.26%.  The 3m SOFR is the replacement for LIBOR and is currently at 5.26%.  That puts the floating rate coupon at 11.3%.  At the current price of $21.34, the yield would be 13.2%.
-
-My investment thesis is that CIM-B moves to its par value of $25 over the next 9 months.  I think there will be $1.50 in dividends and $3.66 in capital gains in those 9 months resulting in a  24% total return.  I think $25 is a fair price because that puts the yield at 130 bps higher than the fixed rate CIM-A, more than enough additional yield to compensate for the potential for rate decreases.  However, $25 is roughly the maximum share price as CIM can redeem the shares at $25 at anytime after 3/30/24.  I wouldn’t be surprised if CIM does redeem the shares, a win for investors.
-
-CIM-B is far from risk free, but I think the potential for a quick 9 month profit is worth the risk.  CIM owns residential mortgages.  Not the type guaranteed by Freddie or Fannie. If you remember the Big Short’s quote of dog shit wrapped in cat shit.  CIM owns the dog shit.  It’s not as bad as 2007.  The mortgages have low loan to value (LTV) as mortgage standards are tighter and the housing market has had considerable appreciation since the mortgages were written.  The job market for subprime mortgage customers is strong.  CIM has minimal leverage allowing it to handle delinquencies.  
-
-It’s not a risk free 24% 9 month return, but I’m comfortable with it.
-
-Here’s the CIM [investor presentation](https://d1io3yog0oux5.cloudfront.net/_a0f938f160fc1c8a4f78fe77ecb8044f/chimerareit/db/862/7941/pdf/Investor+Presentation+June+2023_Final+%281%29.pdf)
-
-I encourage you to look up the details of CIM-B  at QuantumOnline.com.  Benefits of CIM-B include cumulative dividends (if CIM can’t pay preferred dividends, they accrue and must be fully paid before their common stock can pay a dividend.). CIM is an mREIT that must pay out 90% of profits to maintain its tax status, meaning the preferred stock dividends must be paid.  Not a tax advisor, but every mREIT dividend I’ve seen qualifies as a 199A tax break effectively leading to dividends taxed at only 80% of your marginal tax rate.
-
-If you want more ideas like CIM-B, here’s my previous posts.
-[RITM-D](https://www.reddit.com/r/dividends/comments/xnoxsu/ritmd_high_yield_preferred_shares/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=1)
-
-[ASB-E](https://www.reddit.com/r/stocks/comments/13j0e5j/regional_bank_preferred_stock/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=1)
-
-[High Yield Corporate Bonds](https://www.reddit.com/r/dividends/comments/14207bq/high_yield_corporate_bonds/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=1)","CIM, Higher, Longer",CIM
-3,,stocks,It amazes me how few people invest in the stock market.,293,0.72,"Considering how important it is that your savings keep up with / out paces, inflation it amazes me how few people actually do invest or even know how to.
-
-Why are we not taught in school about investing?",It,IT
-4,,stocks,Canadian ETFS,7,0.77,"Looking for some input from fellow Canucks on your preferred Canadian ETF’s. I’m looking to move some gains from individual stocks and to make some regular contributions going forward (want to avoid the currency exchange fees). 
-
-Looking at VFV.TO and COW.TO currently. 
-
-Thanks I’m advance.","Canadian, ETFS",
-5,Advice Request,stocks,"Favorite defense contractor for the long term? (LMT, RTX etc)",29,0.79,"Planning to own one of the defense contractors. Looking to invest for the long term (so the next war(s), not the current one).
-
-The obvious options are Lockheed Martin (LMT), Raytheon (RTX), General Dynamics (GD), Northrop Grumman (NOC).
-
-Any thoughts? ","Favorite, LMT, RTX","LMT,RTX"
-6,,stocks,Going heavily in SPCE,0,0.46,"Think I’m going to buy hard into this. It actually has a product and meme energy. Sitting pretty low now. I have 2.7k shares and another 14k to drop into shares next week. I’m just not sure if I want to swing trade it or hold it long term, so I wanted to see how you all think the chances of it growing long term are. Might sell some covered calls at a strike I’d be fine with them getting called away. I can’t decide! Let me know what you all think. Cheers!","Going, SPCE","G6P.SG,SPCE"
-7,Industry Discussion,stocks,What will be the impact on Index Funds when Money Markets return to under 2% yield?,57,0.85,There's historic amounts of money in these MMF yielding 5% risk free right now. Is it fair to assume that all this capital will rotate into the market once interest rates come back to earth. How much impact could it actually have?,"What, Index, Funds, Money, Markets","WHATS.BR,HOOD"
-8,Company Discussion,stocks,Is $META going to benefit from Threads?,166,0.79,"One of the questions that many META shareholders have is, what is the impact of Threads on the company’s value?
-
-The answer isn’t simple, and I’ll try to break down the components and share my thoughts.
-
-Mark Zuckerberg shared that monetization options would be explored once Threads hits one billion users (As am I writing this, there are over 83 million users. For comparison, Twitter has close to 400 million).  
-  
-From Meta’s point of view, the so-called family of Apps includes two social media platforms - Facebook and Instagram. Both of these platforms are in mature monetization stages, where both the revenue per user and the margins are incredibly high.  
-  
-If we take a look at the big picture, all social media companies make money by selling advertisements. The formula behind that is simple:
-
-**Number of users** X **Time spent on the platform** X **Advertisement revenue**
-
-The time that is being spent is limited, every one of us has 24 hours in a day and decides how to use (or waste) it.  
-  
-Part of the Facebook/Instagram users will use part of their time using Threads and the impact is obvious. If we take a look at the formula above, it is quite clear that the time spent on Facebook/Instagram will be lower, hence, the revenue generated there is expected to decrease. In addition, as Threads is not monetized, it will only bring additional expenses for keeping the platform up and running. In the short run, there shouldn’t be high expectations for Meta when it comes to the financials.
-
-Whether Threads will generate value, in the long run, depends on a few factors:
-
-\- The # of users that join Threads, from Twitter.
-
-\- The monetization per user of Threads, and how far it will be compared to Facebook/Instagram (So far, Twitter didn’t use its potential)
-
-\- The outcome of the cease-and-desist letter sent to Meta by Spiro (Elon’s lawyer) for creating a “copycat” app.
-
-&amp;#x200B;
-
-Meta's value will increase, only if:  
-  
-\- The total number of users (Facebook/Instagram/Threads) increases at the expense of Twitter, and;
-
-\- The revenue generated is higher and can cover the additional expenses for running Threads.  
-  
-I personally, do not think the new platform is creating a lot of value for Meta.","Is, META, Threads",META
-9,Advice Request,stocks,Investment strategy modification,2,0.6,"Hello ! 
-
-After a loss due to a meme stock (and a big win also, thanks also to a meme stock), I chose to modify my strategy investment (to remove stress from my life; I have enough stress with my work) and was wondering if you could give me any advice. 
-
-I think of doing the following every month (in % of my revenue; I don't have a lot of expenses so the amounts are adapted to my revenue and I plan to invest during at least 10 years) :
-
-
-- 9.8% in Raiffeisen Futura - Pension Invest Growth V (https://boerse.raiffeisen.ch/fr-ch/fonds/detail/18932233?exchangeid=393) (this is a fund) ;
-- 6.5% in Synchrony High Dividend Swiss Stocks A (
-https://www.swissfunddata.ch/sfdpub/fr/funds/show/79142) (this is a fund) ;
-- 6.5% in Synchrony (CH) World Equity (CHF) (
-https://www.swissfunddata.ch/sfdpub/fr/funds/show/29036) (this is a fund) ;
-- 3.7% in a phamaceutical company that awaits FDA approval (I can't providence the ticker because of market cap limitation (~100 millions for now) ). 
-
-Based on this plan, would you please have any advices or recommandations ? 
-
-Thanks in advance for your inputs !",Investment,AGNC
-10,,stocks,"r/Stocks Weekly Thread on Meme Stocks Saturday - Jul 08, 2023",7,0.78,"The meme stock scheduled posts will now run weekly and post Saturday afternoon and won't be a sticky; you're probably seeing this because automod sent you here!
-
-[Full list of meme stocks here.](https://www.reddit.com/r/stocks/wiki/meme-stocks)  This will be updated every once in a while.
-
-------
-
-Welcome traders who just can't help them selves discuss the same exact stock that's been discussed 100s of times a day.  I get it, you want to talk about what's popular, what's hot, and that 1.. single.. stock you like.. well here you go!  Some helpful links just for you:
-
-* [Previous meme stock threads](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%28common+OR+meme%29&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
-* [General discussions](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Adiscussion&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
-* [The **original GME megathread**](https://www.reddit.com/r/stocks/comments/layb68/rstocks_gme_megathread/) with a ton of useful information
-* [Use Finviz for aggregated news on your favorite stock](https://finviz.com/quote.ashx?t=gme)
-
-An important message from our mod u/TCGYT [regarding meme stocks.](https://www.reddit.com/r/stocks/wiki/meme-stocks-warning)
-
-Lastly if you need professional help:
-
-* Problem Gambling:  Call/Text: 1-800-522-4700 or [chat online now.](https://WWW.NCPGAMBLING.ORG/CHAT)
-* Crisis Hotline (24/7): 1-800-273-TALK (8255) (Veterans, press 1) or Text “HOME” to 741-741","Stocks, Weekly, Thread, Meme, Stocks, Saturday, Jul",
-11,,stocks,Rising Real Yields Threaten High-Yield Companies’ Share Prices,7,0.68,"A surge in US real yields, reflecting the return on bonds adjusted for inflation, has raised concerns among investors about the implications for riskier assets such as stocks. The yield on 10-year inflation-protected securities (Tips) reached 1.82% on Friday, the highest level since 2009, as investors increasingly anticipated the Federal Reserve maintaining higher interest rates to combat inflation.
-
-Real yields serve as a vital indicator of borrowing costs throughout the economy, influencing the relative attractiveness of risky assets. The recent surge in real yields has made low-risk government debt more appealing, thereby diminishing the attractiveness of other investment options. This rise in borrowing costs is reminiscent of last October when bonds experienced a sharp sell-off, coinciding with a period of greater uncertainty surrounding US inflation.
-
-The repercussions of this increase in real yields pose a significant risk to the corporate sector. Debt acquired when interest rates were at or near zero may now require refinancing at much higher rates. Salman Ahmed, global head of macro and strategic asset allocation at Fidelity International, explains that the problem arises when companies need to refinance debt that was initially borrowed in a low-interest rate environment.
-
-For instance, a high-yield company that secured funding at around 4% during the pandemic may now face interest rates exceeding 12%. The impact of this sudden increase in borrowing costs could be severe for these companies as they grapple with the financial burden of refinancing their debt at significantly higher rates. Such a shock to the financial system can exert downward pressure on the affected company’s share price, potentially leading to increased volatility in the equity market.
-
-Furthermore, analysts anticipate that the effects of higher borrowing costs will be more acutely felt in the latter half of next year and into 2025. Many companies took advantage of slashed interest rates during pandemic lockdowns to secure loans, supporting the economy. However, with lending already slowing down this year, the tighter financial conditions resulting from rising yields may amplify the challenges faced by businesses.
-
-The implications of these shifting monetary and financial conditions are not limited to individual companies. Investors are growing increasingly concerned about US equity valuations as financial conditions tighten. The relationship between stock prices and returns compared to Tips is changing. Jon Day, fixed income portfolio manager at Newton Investment Management, highlights the need for higher equity returns to match the rising real yields. The disparity between expected equity returns and the current market conditions is a significant factor behind the recent stock sell-off triggered by the Fed minutes.
-
-While equities have experienced substantial gains this year, largely driven by investor enthusiasm for companies leveraging artificial intelligence, some investors question whether a buoyant stock market and apprehensive bond investors can both be correct.
-
-Overall, the surge in US real yields carries substantial implications for various aspects of the financial landscape. The shock of higher borrowing costs for companies that raised funds at lower rates during the pandemic can significantly impact their share prices. 
-
-Additionally, the slowdown in lending, coupled with tightening monetary and financial conditions, raises concerns about the valuation of companies. As investors grapple with these uncertainties, the relationship between stock prices and real yields becomes a crucial factor to watch in the coming months.","Rising, Real, Yields, Threaten, High, Yield, Companies, Share, Prices","REAL,BHC,PSMT"
-12,Advice Request,stocks,Good places for sources?,42,0.89,"Hello Reddit Investors,  
-
-
-I am looking for a few but good websites, where I can get help in deciding which stocks/sectors to invest my little wage leftover.
-
-I am most curious about finding information about:  
-Current demand growth rate, long term projected growth rate, projected return on capital assets
-
-Industry projection(for each company in the industry/sector) things like price to networth, projected pre-tax return on capital assets, projected market share, P/E, last earning report(cashflow, income, expenses, net profit, total debt) and other usefull information
-
-Or, please share your website which helps you decide in buying stocks.
-
-I am too lazy to calculate these things for each potential companies.
-
-Thank you in advance.
-
-TL:DR: useful websites for getting quick company information needed  
-",Good,GOOD
-13,Advice Request,stocks,QQQ vs VGT vs VOO vs VUG,4,0.64,"22 years old with extremely high risk tolerance.  
-Looking to put 50% of my portfolio into one or two of these ETFs. I want to get everyones opinion on these and see what you guys would recommend.  
-As of now, i'm leaning towards 25% QQQ and 25% VOO. Looks like VGT has outperformed both of these ETFs though so not sure why everyone recommends QQQ. VUG is also a good one but I think I would rather pick VOO. I understand there is a good amount of overlap but I will run into that problem with all these ETFs.  
-Final portfolio would look something like this...  
-25% first ETF mentioned above  
-25% second ETF mentioned above  
-15% SCHF (international)  
-10% VB (small cap)  
-10% IMCG (mid cap)  
-10% SCHD (dividend)  
-5% Individual stocks
-
-EDIT: Planning to take out the small and mid cap etf, increase international exposure, and purchase some VTI. Not sure on what % I will do for everything yet. I appreciate all the responses thank you guys so much.
-
-FINAL UPDATE:
-50% VOO
-25% QQQM
-20% SCHF (international)
-5% TQQQ","QQQ, VGT, VOO, VUG",
-14,,stocks,Never loosing indicators(?),0,0.29,"Hi redditors,
-
-I have a stupid question with a standard obvious text-book answer goes like ""are you dumb?."" But I am curious anyway about your creative ways of saying it.
-
-I have a friend who I know for a long time and he is interested in stock market for the past few years. He is looking for indicators and trying to apply them to different indicies, shares, CFDs etc. Recently his claim was that he found never loosing indicators. His argument is that those indicators work with 5mins intervals on some assets and 1 hour in some others. They involve having put and call options depending on what indicators signal with the current market value, volume trend etc. 
-
-He makes all the hyper-parameter optimization using past data and further proposes that, in 1 to 2 year time windows, he could have made 40%, 50% and even 100% net  profits using these indicators including comissions etc. When we ask why there is that much gain but absolutely no risks, his argument is okey in the long run if not making 50% 100% profit then 25% 30% is still free money that one should get.
-
-I am a novice trader who is learning and enjoying it and consider it as securing my today savings' purchasing power for the future. Besides I have my day job and I find it too stressful to make high frequency trades. Even in slow pace, I think it is sometimes stressful. All things put asside, when I check public funds managed by pros and their performances, they don't make 50% 100% net profits every year. If this is something that obvious such that one guy realize at home looking at the graphs, then why not everybody is making this as their only job? Paradoxically, if everybody applies the same and simple tactic, then no one could have won. Anyway...
-
-What would you guys tell your friends, if you were in my shoes?",Never,HLWD
-15,,stocks,"/r/Stocks Weekend Discussion Saturday - Jul 08, 2023",2,0.56,"This is the weekend edition of our stickied discussion thread.  Discuss your trades / moves from last week and what you're planning on doing for the week ahead.
-
-Some helpful links:
-
-* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks
-* [Bloomberg market news](https://www.bloomberg.com/markets)
-* StreetInsider news:
-  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips
-  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news
-
-If you have a basic question, for example ""what is EPS,"" then google ""investopedia EPS"" and click the investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned.
-
-Please discuss your portfolios in the [Rate My Portfolio sticky.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%22Rate+My+Portfolio%22&amp;restrict_sr=on&amp;sort=new&amp;t=all).
-
-See our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&amp;restrict_sr=on&amp;sort=new&amp;t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Friday.","Stocks, Weekend, Discussion, Saturday, Jul",
-16,Advice Request,stocks,What should I go for in s&amp;p 500?,3,0.56,"Should I go for the lowest s&amp;p 500 or more high?
-
-So I'm more so new to stocks but I've been invested in s&amp;p 500 and was recommended to choose voo over spy mainly due to how much lower the shares are but don't get me wrong there still high 396$. But thus made me think about changing to lower or just staying where I am, I see much lower ones but idrk so should I invest in one that's lower like 25 per share or one that's higher like 400 per share? And if it says s&amp;p 500 does it mean there all the same? Like voo, spy, spyg etc?",What,WHATS.BR
-17,,stocks,How safe are ETFs if broad index funds didn't exist?,0,0.46,"
-
-Hi,
-
-
-So the general rule for etf investing is to choose safe etf investing like a broad market index like sp500 or a total world index like $VT.
-
-If a VT index or sp500 weren't available. What would you chose? Basically they are deemed be relatively low risk. Now if you wanted something risky with ETFS. Does that exist?
-
-I have the basic total index and 50% other side in sp500 for ""safe"". If I couldn't choose that, I'd go for something like Personally I'd for a mix of mid cap, small cap &amp; QQQM.
-
- That would probably yield more returns then a broad market but be more aggressive? Or something like a clean energy and ai etf bring more returns? Basically what would you choose for an Etf combo ( if you can't choose sp500 - or need to overlay with sp500)","How, ETFs",HWM
-18,,stocks,"Unveiling the Economic Puzzle: Change in Rate Expectations, and Economic Indicators.",7,0.77,"Over the past two weeks, a comprehensive set of economic data has provided economists and investors with a detailed understanding of the US economy. Notably, today’s market reversal was driven by a shift in market expectations for the Federal Reserve’s target rate, presenting a challenging path forward for the stock market and raising uncertainties.
-
-The latest labor market data revealed a hint of tepidness in the June nonfarm payrolls report. Job growth of 209,000 fell slightly below consensus expectations, and revisions showed a net gain of 99,000 jobs, signaling a slower pace compared to previous months. This suggests that the ongoing reduction in the M2 measure of money is gaining traction and beginning to impact the economy. Tight monetary policy, as a result of the Federal Reserve’s hiking cycle, is starting to have an effect.
-
-Despite the softer labor market data, it is unlikely to deter the Federal Reserve from raising short-term interest rates at the upcoming July 26 meeting. Civilian employment, including small-business start-ups, rose by 273,000, pushing the unemployment rate down to 3.6%. Average hourly earnings increased, and total hours worked saw an uptick, reinforcing the belief that the Fed perceives the need for further stabilization of the economy through additional rate hikes.
-
-A divergence becomes apparent when shifting focus to the goods and services sectors. The ISM Manufacturing index continued its contraction for the eighth consecutive month, reflecting concerns about a slowing US economy and reduced customer demand. In contrast, the ISM Services index rose to 53.9 in June, with fifteen out of eighteen major industries reporting growth, surpassing even the most optimistic forecasts. While signs of a potential recession loom, the services side of the economy appears to be holding up for now, with business activity and new orders within the services sector remaining in expansion territory.
-
-International trade data indicated a decline in the trade deficit for goods and services to $69.0 billion in May, accompanied by decreases in both imports and exports. This aligns with forecasts of a recession, reflecting weakened domestic demand for goods and a shift towards increased spending on services. Import numbers from China have plummeted by 24.3% compared to the same period last year, resulting in China slipping to the third-largest exporter to the US behind Mexico and Canada. Falling daily freight rates further indicate a weakened global trade environment.
-
-The most significant market impact today was driven by new expectations for the Federal Reserve’s target rate. The provided data reveals an increasing probability, now at 92.4%, of the target rate falling within the 525-550 basis points range. This shift in rate expectations has led investors to reassess their strategies and pricing models, incorporating the potential impact on various asset classes.
-
-Though rates off recent highs, this week's still-large backup in yields reflects fears of a more aggressive Fed and continued global tightening (though market pricing continues to forecast only a single July rate hike before the Fed pauses).
-
-Considering the implications for the stock market, the outlook appears uncertain. The ongoing slowdown in the goods sector, coupled with reduced demand and inventory buildup, raises concerns about future factory output. Persistent inflationary pressures, as indicated by the prices index within the manufacturing sector, pose challenges for companies.
-
-As the market adjusts to shifting rate expectations and economic indicators, caution should be exercised. The stock market may face downward pressure as it navigates these uncertainties, potentially impacting company valuations and investor sentiment. Market participants are urged to closely monitor developments, adapt investment strategies accordingly, and remain diligent in risk management.
-
-The message the world’s top central bankers delivered late last month could not have been clearer. Bank of England governor Andrew Bailey, and his US and eurozone counterparts Jay Powell and Christine Lagarde, all insisted that high inflation — and high interest rates — would endure.
-
-The impact of the shifting economic landscape and changing rate expectations will mainly impact cyclical stocks, stocks particularly sensitive to economic fluctuations. Cyclical stock industries include automotive, construction, technology hardware, manufacturing, consumer durables, housing, airlines, travel and leisure. The slowdown in the goods sector, coupled with potential rate hikes, could present challenges for companies within these sectors.","Unveiling, Economic, Puzzle, Change, Rate, Expectations, Economic, Indicators","FMX,FMX"
-19,,stocks,Does a Federal Interest Rate Hike usually result in stock market prices to go down?,0,0.47,"Does a Federal Interest Rate Hike usually result in stock market prices to go down? For example, with the upcoming federal interest rate meeting this month on July 25/26, will the prices of stocks in general be going down or expected to  go down? Are there other factors to consider besides the federal interest rate hike?
-
-I apologize if this is a silly question, but I'm interested in how certain factors affect the market or may not affect the market. Thank you ","Does, Federal, Interest, Rate, Hike",FNMA
-20,,stocks,Hold or Sell?,0,0.46,"I bought some $NVDA in a swing about 6 months ago and I'm at %110 and doubled the value.  For such a short time, I feel like I should pull out and reinvest it into something else, but the ape in me says I should hold out for as long as possible. I don't need the money. Just wondering what you guys would do.","Hold, Sell","BABA,SLS"
-21,,stocks,"Wall Street Week Ahead for the trading week beginning July 10th, 2023",12,0.93,"Good Friday evening to all of you here on r/stocks! I hope everyone on this sub made out pretty nicely in the market this past week, and are ready for the new trading week ahead. :)
-
-Here is everything you need to know to get you ready for the trading week beginning July 10th, 2023.
-
-# **Stocks tumble on Friday, notching weekly losses, as traders' rate hike fears return: Live updates - [(Source)](https://www.cnbc.com/2023/07/06/stock-market-today-live-updates.html)**
-*****
-&gt; Stocks fell on Friday, and finished lower for the week, as Wall Street struggled to shake off fears that the Federal Reserve may start hiking rates again later this month.
-*****
-&gt; The S&amp;P 500 lost 0.29% to end at 4,398.95, while the Nasdaq Composite dipped 0.13% to close at 13,660.72. The Dow Jones Industrial Average dropped 187.38 points, or 0.55%, to settle at 33,734.88.
-*****
-&gt; All three major averages capped a losing week. The S&amp;P dropped 1.16%, while the Nasdaq declined 0.92%. The Dow shed 1.96% for its worst weekly performance since March.
-*****
-&gt; The Labor Department’s June jobs report showed payrolls increased less than expected, cooling down from May. Nonfarm payrolls rose by 209,000, while the unemployment rate came in at 3.6%. Economists polled by Dow Jones had anticipated 240,000 positions added and a similar jobless level.
-*****
-&gt; But parts of the report, including stronger-than-expected wage numbers, heightened fears that the central bank may have reason to resume hiking later this month. Average hourly earnings increased by 0.4% in June and 4.4% from a year ago. Meanwhile, the unemployment rate declined from 3.7% in May.
-*****
-&gt; “It’s kind of a mixed picture today,” said Truist’s Keith Lerner. “It’s good news that the economy is not falling apart, it’s still chugging along, but you still have these wage pressures that are going to keep the Fed likely to raise rates at the end of the month.”
-*****
-&gt; Near term, Lerner said equities are ripe for a pullback following a big June and second quarter. This could lead to consolidation and choppy action as markets head into earnings season.
-*****
-&gt; Following Friday’s big data release, traders kept their bets on a resumption in hiking later this month, pricing in a 92% chance of a quarter-point hike on July 26. Those are about the same odds as a day ago, according to CME Group’s FedWatch tool. Policymakers indicated at their June gathering that two more rate hikes could be ahead in 2023.
-
-*****
-
-# **This past week saw the following moves in the S&amp;P:**
-###### **([CLICK HERE FOR THE FULL S&amp;P TREE MAP FOR THE PAST WEEK!](https://i.imgur.com/WlvGnsB.png))**
-
-# **S&amp;P Sectors for this past week:**
-###### **([CLICK HERE FOR THE S&amp;P SECTORS FOR THE PAST WEEK!](https://i.imgur.com/6wdFhfJ.png))**
-
-# **Major Indices for this past week:**
-###### **([CLICK HERE FOR THE MAJOR INDICES FOR THE PAST WEEK!](https://i.imgur.com/GCbRTDT.png))**
-
-# **Major Futures Markets as of Friday's close:**
-###### **([CLICK HERE FOR THE MAJOR FUTURES INDICES AS OF FRIDAY!](https://i.imgur.com/J2HzTwV.png))**
-
-# **Economic Calendar for the Week Ahead:**
-###### **([CLICK HERE FOR THE FULL ECONOMIC CALENDAR FOR THE WEEK AHEAD!](https://i.imgur.com/OWX8zmj.png))**
-
-# **Percentage Changes for the Major Indices, WTD, MTD, QTD, YTD as of Friday's close:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/RtMj2P1.png))**
-
-# **S&amp;P Sectors for the Past Week:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/XmZNB4C.png))**
-
-# **Major Indices Pullback/Correction Levels as of Friday's close:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/Cet61vY.png))**
-
-# **Major Indices Rally Levels as of Friday's close:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/yA7psZs.png))**
-
-# **Most Anticipated Earnings Releases for this week:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/1JUlvcG.png))**
-
-# **Here are the upcoming IPO's for this week:**
-###### **([CLICK HERE FOR THE CHART!](https://i.imgur.com/UTnac0r.png))**
-
-# **Friday's Stock Analyst Upgrades &amp; Downgrades:**
-###### **([CLICK HERE FOR THE CHART LINK #1!](https://i.imgur.com/xSvUinH.png))**
-###### **([CLICK HERE FOR THE CHART LINK #2!](https://i.imgur.com/lb8D1X9.png))**
-
-*****
-
-&gt; # Stellar NASDAQ 1st Half Dampens July and Q3 Performance
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://64.media.tumblr.com/2ff76af69a1691d77dc884e4bcd1c2d9/7b1ae60421497f18-3e/s500x750/e83d26bb66b714c132d4b619a7964df03e674810.jpg))**
-
-&gt; NASDAQ finished the first half of 2023 with a stellar 31.7% gain. This is NASDAQ’s third best first half ever. Only 1975 and 1983 were better. In the following table we compiled all years since 1971 when NASDAQ was up 20% or more in the first half. Reviewing the table, we observed only two times out of the past eleven where the second half of the year was better than the first half (1999 and 2003). July and Q3 were also below average following a 20%+ first half gain while Q4 was better than average.
-
-&gt; This reinforces our existing tepid outlook for Q3. Today’s much stronger than anticipated jobs data has increased expectations for another Fed interest rate hike and added more uncertainty as to when the Fed will eventually pause. Increasing uncertainty is likely to lead to more volatility and a sideways to possibly lower market during the historically weak third quarter.
-
-*****
-
-&gt; # Big Picture: The Economy is Normalizing
-
-&gt; We started this year discussing how the economy has been at the “edge of normal” in our 2023 outlook. The good news is that we have slowly but surely moved towards normal since then, even in the face of a banking crisis and debt ceiling drama. The “soft” economic data from sentiment surveys have been poor, but the “hard” data that measure actual employment, sales, and production, have painted a much brighter picture.
-
-&gt; We discussed last month how we combine a lot of the economic data into our own proprietary leading economic index (LEI), which we produce for 30 countries around the world, each one custom-built to capture the dynamics of those economies. The individual country LEIs are also subsequently rolled up into a global index to give us a picture of the global economy. The idea is to give us an early warning signal about economic turning points. Simply put, it tells us what the economy is doing today and what it is likely to do in the near future.
-
-&gt; For example, our index for the U.S. includes 20+ components, including consumer-related indicators (which make up 50% of the index), housing activity, business and manufacturing activity, as well as sentiment and financial markets data. This contrasts with other popular LEIs, which are premised on the fact that the manufacturing sector and business activity/sentiment are leading indicators of the economy. This worked well in the past but is probably not indicative of what’s happening in the economy right now.
-
-&gt; Right now, our LEI suggests the US economy is growing along trend, or slightly above it. The economic picture looks even better than it did at the end of 2022. Six months ago, the risk of recession was higher, though even then, the LEI didn’t say that we were in a recession, or even very close to one.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/07/Blog-2023-07-06-US-LEI-675x800.png))**
-
-&gt; However, we’re seeing some interesting dynamics under the hood.
-
-&gt; # 2022 Headwinds are Fading
-&gt; As I mentioned above, our LEI has been consistently saying that the U.S. economy is not in a recession. That was almost entirely thanks to a resilient consumer, with strong employment gains powering incomes and consumption. Pushing against this was an aggressive Federal Reserve and tighter financial conditions. Consequently, the sector that took the biggest hit last year was housing, followed by a slowdown in business spending and manufacturing activity.
-
-&gt; But a turnaround looks to be happening now.
-
-&gt; As you can see below, the LEI has been rebounding over the last few months. That’s come on the back of declining headwinds from housing (yellow), business/manufacturing activity (green), and financial conditions.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/07/Blog-2023-07-06-LEI-breakdown-667x800.png))**
-
-&gt; In fact, housing has moved to being a positive contributor! We’ve written about how why we believe housing will no longer be a drag on the economy after 8 straight quarters of pulling GDP growth lower. Even business activity is exerting a lower drag on the economy – we just wrote last week about how investment has been rising recently, hopefully signaling a bottom.
-
-&gt; Financial conditions appear to be easing, especially with the Fed moderating the pace of rate hikes and interest rates inching close to their terminal level for the cycle.
-
-&gt; Most importantly, consumption remains positive, though less so than a few months ago. This is not really a concern in my opinion (at least, not yet), as it simply indicates that consumption trends are normalizing. The latest contribution from consumption to our LEI is equivalent to its pre-pandemic contributions.
-
-&gt; Ultimately, the big picture is that the economy looks to be finally normalizing after a few years of being whipped around by the pandemic, and its after-effects.
-
-*****
-
-&gt; # Factory Orders Go Negative
-
-&gt; The last 24 hours have been rough for economic data both in the US and around the world as most indicators released have been weaker than expected. It started with weaker-than-expected PMI readings for the services sector in China but has since spread to weaker PMI readings for most major economies in the Eurozone as well. Here in the US, PMI data on the services sector will not be forthcoming until tomorrow morning, but Factory Orders released this morning were a big miss. At the headline level, orders for the month of May increased 0.3% which was a half percentage point below consensus expectations. Not only that but April’s reading was also revised down from growth of 0.4% down to 0.3%. After stripping out Transportation, Factory Orders declined 0.5% while April’s reading was revised from a decline of 0.2% down to a drop of 0.6%.
-
-&gt; On a year/year basis, Factory Orders also dipped into negative territory for the first time since October 2020. The chart below shows the historical y/y change in Factory Orders since 1960. While readings were negative during every recession, there were plenty of other periods where they also declined on a y/y basis and the economy was nowhere near a recession. Not only that but there were also many other periods during economic expansions where Factory Orders dropped by a much larger amount on a y/y basis.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2023/07/070523-Factory-YY.png))**
-
-&gt; While the magnitude of the decline in Factory Orders hasn’t been extreme, what is unique about the current period is how long the rate of change in Factory Orders has been declining. The chart below shows streaks where the y/y change in Factory Orders increased (blue line) or declined (red line). With May’s report, the rate of change in Factory Orders on a year/year basis has declined for a record eight straight months, breaking the prior record of seven months that was seen during recessions in the mid-1970s, early 1980s, and during the Financial Crisis. The fact that prior streaks of similar duration all occurred during recessions isn’t exactly reassuring. What makes it less worrisome, though, is that the decline is coming after Durable Goods experienced record growth and consistency of growth coming out of the COVID crash.
-
-&gt; There's plenty of evidence out there to cite as reasons why the US economy is teetering on the edge of a recession or merely in a slowdown, and parts of today's Factory Orders report could honestly be used to help justify either viewpoint.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://media.bespokepremium.com/uploads/2023/07/070523-Factory-YY-Streaks.png))**
-
-*****
-
-&gt; # Why July Brings the Bulls
-
-&gt; “I am an optimist because I don’t see the point in being anything else.” -Abraham Lincoln
-
-&gt; And with that, the first half of the year is a wrap. What can we say other than all those calls for a recession and new bear market lows sure didn’t play out. We were one of the only places predicting there wouldn’t be a recession this year and to look for stocks to possibly gain 12-15% (and maybe more with some good news). It was a lonely call and we took a lot of heat for it, but we are noticing more and more shops are coming over to the no-recession camp.
-
-&gt; I noted in Why a Sunny Second Half of 2023 is Likely some reasons to expect more gains after the big start to this year. Well, here’s another angle on that. I looked at all the years that were up more than 10% at the midpoint of the year, but were also negative the year before. In other words, a potential slingshot move. Sure enough, stocks did even better when this took place, with the S&amp;P 500 higher those final six months eight out of nine times and up a median of 12.4% – well above the median final six month return of 7.7% when those first six months gain more than 10%.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/06/blog-1-6-800x488.png))**
-
-&gt; So, can this surprise summer rally continue? As Honest Abe would say, might as well be an optimist and we think it can, as July historically is a strong month. Of course, it isn’t just about seasonals, as the realization the economy may not be going into a recession and a Fed that is likely done hiking are both also positives, which should keep things moving higher in July.
-
-&gt; For starters, stocks have gained 9 of the past 10 years in July, with no month sporting a better average return over the past decade than the 3.3% July gain for the S&amp;P 500. Why is this you ask? The one thing I keep thinking about is July kicks off Q2 earnings season and in the past 10 years overall we’ve seen a lot of doubt out there. It is likely that earnings come in better than expected, calming many of the fears and allowing for a rally. We think that could happen once again this year.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/06/blog-2-5-800x342.png))**
-
-&gt; Let’s be clear though, July is usually a good month in the middle of the weak summer months. The chart below shows this nicely. Since 1950, stocks gain 1.3% on average in July, but this goes up to 2.2% in the past 20 years and 3.3% in the past decade. Pre-election years are a little weaker, up 0.9%. Lastly, when stocks gain more than 3% in the usually weak June (15 times since 1950), stocks gain only 0.8% on average and are higher only 8 times. So, there could be the chance June steals some of July’s gains.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/06/blog-3-3-800x338.png))**
-
-&gt; Lastly, we’ve shared the next chart many times the past few months, as it suggested the potential for a summer rally when very few expected it. We call this the Carson Cycle Composite, as it is a proprietary indicator that combines the past 20 years, pre-election years, the third year of a new President, and years that saw stocks gain at least 5% in January (like ’23). As you can see, a rally in July is normal and we don’t believe ’23 to be any different.
-
-&gt; ###### **([CLICK HERE FOR THE CHART!](https://www.carsongroup.com/wp-content/uploads/2023/06/blog-4-3-800x283.png))**
-
-&gt; We want to be clear, at some point stocks will take a well-deserved break. August, September, and October usually can see this volatility and it very well could happen again this year. But we remain overweight equities and we’d use any seasonal weakness as an opportunity to add to core equity exposure.
-
-*****
-
-Here is the list of notable companies reporting earnings in this upcoming trading week ahead-
-
-*****
-
-&gt; (**T.B.A. THIS WEEKEND.**)
-
-*****
-
-&gt; ###### **([CLICK HERE FOR NEXT WEEK'S MOST NOTABLE EARNINGS RELEASES!](https://i.imgur.com/1JUlvcG.png))**
-&gt; ###### **([CLICK HERE FOR NEXT WEEK'S HIGHEST VOLATILITY EARNINGS RELEASES!]())**
-(T.B.A. THIS WEEKEND.)
-&gt; ###### **([CLICK HERE FOR MONDAY'S PRE-MARKET NOTABLE EARNINGS RELEASES!]())**
-(N/A.)
-
-*****
-
-# DISCUSS!
-
-What are you all watching for in this upcoming trading week?
-
-*****
-
-I hope you all have a wonderful weekend and an awesome trading week ahead r/stocks. :)","Wall, Street, Week, Ahead, July","WBX,MAIN"
-22,,stocks,Where can I buy old stock certificates?,0,0.4,"Today, while exploring other people's desks in my office, I noticed that my own desk was empty. This realization prompted me to consider bringing some items from my home desk and purchasing new things to personalize my workspace. One particular item I'm interested in acquiring is old stock certificates from old American companies, preferably at an affordable price. However, when I searched online, I came across some websites that seemed shady, and I'm unsure if they can be trusted.  
-  
-",Where,WFCF
-23,Advice Request,stocks,Lexicon pharmaceuticals $LXRX,4,0.7,"I’m wondering if any of you guys are looking into LXRX as a good buy, I’m literally brand new to stocks but I seen the CFO and other insiders were buying up shares, I’m assuming this is a good sign lol, is it on anyones radar? Any advice on investing into this stock?","Lexicon, LXRX","LXRX,LXRX"
-24,Advice Request,stocks,Global Warming plays,0,0.38,"What companies are going to profit from the record heat, wildfires, etc? I did a bit of searching, but I'm mostly finding companies that are trying to make money from solutions to the problem (renewable energy, eco-friendly products, etc). I'm looking for companies profiting more directly from the problems. Thoughts?","Global, Warming","COIN,GWSO"
-25,Industry Discussion,stocks,Which industries or stocks would be most affected if the Russia/Ukraine war suddenly ended?,5,0.67,"Ever since the attempted coup in Russia, the possibility of the war ending is the highest it’s been since Russia first invaded Ukraine. There is no way to know when the war will end, it could be years away, it could be weeks away. No one knows the real answer to when the war will end, probably not even Putin himself. So instead of speculating if/when the war will end, let’s for arguments sake, pretend the war ends next week. What stocks/industries would be most affected?","Which, Russia, Ukraine",
-26,,stocks,Bought stock when it was a small high.,0,0.36,"Hey, I'm new to investing. I bought one share of Tesla stock when it was at a small high of 279, and I know the saying is ""Buy High, Sell Low."" It looks like I lost about $3.29. I'm planning on holding the stock long-term, but should I sell it and try buying it again at a low?",Bought,
-27,,stocks,Investing in MJ?,3,0.64,"I'm pretty new to investing and so haven't really diversified my portfolio so far. I've mostly invested in NU bank, which has made an incredible comeback over the last few months. I've been interested in investing in marijuana stocks for a while, but noticed they've been plummeting, and for whatever reason Canopy Growth has been doing awfully as well.
-
-I'm curious whether there's even any point in investing in weed. I get the impression there was a lot of optimism about it a while back, but even though legalization has been spreading across the US, weed stocks haven't been doing well anyway. I was considering investing a couple of grand into MJ while it's down, but I have a feeling it will drop even lower. Thoughts?","Investing, MJ",
-28,,stocks,Prediction thread from the start of 2023 - a shining example of how bad people are at predicting the future,114,0.91,"[https://www.reddit.com/r/stocks/comments/zxbjuf/what\_are\_your\_predictions\_for\_2023/](https://www.reddit.com/r/stocks/comments/zxbjuf/what_are_your_predictions_for_2023/)
-
-The *overwhelming sentiment* was more pain in 2023, with the market starting to recover in late 2023. The sentiment for Q1 was pretty much unanimously negative. From what I can see, pretty much ZERO people predicted a strong rally in Q1/Q2.  People who predicted any kind of positive gains in 2023 were downvoted (sort by controversial).
-
-**Today, after 6 months, SPY is up +16% and QQQ is up a staggering +40%.**
-
-I hope this helps to demonstrate how difficult it is to predict the market (and yet people do it with such confidence every day, just look at the prediction thread). Take everything you read on this sub with a massive grain of salt.  NOBODY knows what the market will do next. The people who get hurt the most in the market are the ones who believe they do.
-
-Investing is one of those strange things where the more research you do and the more trades you make, the worse you tend to do.  Women tend to outperform men simply because they are more likely to just buy and hold.  In fact, in one study the demographic that performed the best was those who had passed away, since they were unable to make any trades.  The sooner that you realize how difficult it is to time the market successfully, the better your performance will be.
-
-As always, I recommend a DCA strategy into market ETF's and hold long term.
-
-&amp;#x200B;",Prediction,
-29,Advice,stocks,Nobody is going to warn you about what’s coming,1061,0.86,"It’s sort of funny seeing everyone stressing out about Fed interest rate hikes, inflation, recession, etc. 
-
-Isn’t it true that all the known economic  risks that people are discussing today are priced into the markets? If the risks are in the minds of the public long enough then it is less likely to occur, or won’t be as severe. 
-
-In the history of the stock market, it seems as though the biggest crashes and worst disasters were black swan events that obviously nobody saw coming at the time. 
-
-In January 2020 nobody warned me about the pandemic 
-
-When everyone was pumping speculative, high-growth tech stocks in late 2020, nobody warned me that the bubble would burst months later 
-
-In January 2022, when people were discussing the market outlook for the new year, nobody warned me that Russia was going to invade Ukraine. 
-
-In the Fall of 2022, when the market sentiment was god awful, and the media was spewing doomsday articles, nobody warned me that was the bottom of the bear market, so far, for stocks and crypto. 
-
-Nobody warned me about that regional banking crisis in March 2023 
-
-Nobody warned me before Toys R Us went out of business 
-
-Nobody would have warned me in 2007 about 2008. 
-
-Obviously, hardly anyone could have warned me about the events above and that’s the point. 
-
-I’m convinced that when the next severe recession does eventually hit, weeks or years from now, the catalyst that triggers it will not be anything we’re discussing now. The biggest threat to the economy and stock market today isn’t the Fed or inflation. 
-
-If anyone “warns” you about what’s going to happen they’re only trying to protect their money, not yours. 
-
-Everyone’s portfolio would perform better if we just turned off the news, delete the reddit and YouTube apps, and stick to our own convictions. 
-
-Rant over.",Nobody,
-30,Company Question,stocks,Question about Origin Materials (ORGN),19,0.89,"I'm looking into Origin Materials (ORGN) and its recent slide back into the $3 range. This company has been very popular in some reddit circles, and I'm interested in learning more about the company.
-
-I jumped on Finviz and noticed a large disparity between these two metrics:
-
-As of 7/7
-
-* P/E: 6.57
-* P/S: 303.20
-
-Could y'all help me understand why such a large disparity might exist in general, and if you're familiar with ORGN, why it exists here?
-
-I'm still in the process of researching this company's financials, so I don't you expect anyone to do the legwork for me. However if you're already familiar with this company, I'd appreciate your take!
-
-Thanks","Question, Origin, Materials, ORGN","ORGN,MP,ORGN"
-31,Company Analysis,stocks,Zoom $ZM is in trouble,12,0.69,"I am still in the process of gathering more information and writing the long-form post that I do once a week, but I thought to share some quick insights.
-
-I think **Zoom ($ZM)** is in trouble.
-
-&amp;#x200B;
-
-Zoom benefited significantly from the pandemic, as the demand for its products surged. The revenue growth in 2020 was 88%, followed by 326% in 2021 and still an impressive 55% in 2022.
-
-*\*Fiscal years ending January*
-
-However, the pandemic is behind us, and so is Zoom’s growth. During the fiscal year 2023, the revenue was up $293 million (roughly 7%). But this isn’t the bad news. To understand what is actually happening, we need to take a look at the operating expenses, especially one group - **Selling &amp; Marketing.**
-
-The purpose of this expense is self-explanatory.
-
-Well, it increased from $1.1 billion to a whopping $1.7 billion in 2023 (from 28% to 39% of revenue).
-
-Let me make it clear, Zoom spent $1.7 billion on Selling &amp; Marketing, and increased its top line by less than $300 million!
-
-This is the simplified conclusion. The reality is a bit more complex. The $1.7 billion brought a lot more revenue, not only the net increase. What we’re missing in this equation is the revenue that was lost during the year, due to cancellation of the Zoom plans. Although this doesn’t exist as a separate data point, it is quite clear that the management decided to focus on not reporting revenue loss during the year by doubling down on Selling &amp; Marketing.
-
-However, this has an impact on its margins.
-
-This increased expenditure reduced their operating margin to roughly 6% from 25% in the previous two years.
-
-The response that many will have is: *“So, all the company needs to do is, reduce the Selling &amp; Marketing expense, and their profitability will go up, right?”*
-
-Well, profitability, in terms of higher margins, is likely. However, it will come hand in hand with lower revenue. 
-
-Zoom is not only not a growth company at this moment, but also one where the management needs to decide between keeping its market share and actually delivering returns to the shareholders.
-
-&amp;#x200B;
-
-The complete analysis including valuation will follow this Sunday.","Zoom, ZM","ZM,ZM"
-32,Company Discussion,stocks,C3.AI stock- short or long term hold,11,0.69,Is anyone bullish on this stock? I’m reading differing opinions. A large group thinks it’s surging recently because of chatgpt only and is not a good long term hold. Their financials aren’t great right now but they’re new. Is this a short term or long term hold in your opinion. Or neither,"C3, AI","AI,AI"
-33,,stocks,Oracle algorithm,7,1.0,Wanting to know if anyone has invested in the oracle algorithm to research and or buy stocks. I like to do my own research when buying stocks but understand that if I could remove the emotional aspect that would also be baller. Just wanting to know other people's thoughts on this product or others similar to it.,Oracle,ORCL
-34,Advice Request,stocks,What should you look for in a stock?,4,0.61,"I’m a new and when I research a stock, what am I looking for? Obviously it’s helpful if they have an uptrend, but what are green flags the I should jump on, and what are red flags I should stay away from?",What,WHATS.BR
-35,,stocks,Textbooks/books on Buying companies through shares?,0,0.43,"I am in no position to do so right now, but the subject interests me since I have no idea how it works. 
-
-Is there a book you guys can recommend on the steps of business acquisitions through stocks?
-
-Explaining how to do it. What responsibilities do you have? What legal process needs to be done? Etc. 
-
-Always see in tv rich gurus buying out companies but never really go into detail the process. 
-
-Thanks everybody!","Textbooks, Buying",
-36,Company Discussion,stocks,'Polestar Announces Record EV Deliveries',278,0.93,"[Polestar delivered 15,800 vehicles in Q2, a more than 36% annual jump](https://investorplace.com/2023/07/psny-stock-alert-polestar-announces-record-ev-deliveries/)
-
-[Polestar 3](https://www.polestar.com/us/polestar-3/) on the way to US early 2024.  
-
-Interesting option for those who want EV exposure beyond the usual suspect(s).  I opened a small position a few months ago and plan to hold long-term.","Polestar, Announces, Record, EV, Deliveries","PSNY,REC.MI,EVGO"
-37,,stocks,Why does Disney (DIS) carry so much goodwill on their balance sheet?,111,0.93,"Hi!
-
-I was recently looking over some financial statements for Disney and noticed on their balance sheet they carry a significant amount of ""goodwill"":
-
-|*2018*|*2019*|*2020*|*2021*|*2022*|
-|:-|:-|:-|:-|:-|
-|31,269.0|80,293.0|77,689.0|78,071.0|77,897.0|
-
-As i understand, ""goodwill"" is added to the balance sheet when a merger/acquisition of 2 companies occurs. So, for example, if Disney bought My Cable Company for $100 million, and My Cable Company had assets of $90 million and liabilities totaling $15 million...making the present value of the company $75 million. This would mean Disney could record $25 million of ""goodwill"" on the balance sheet.
-
-By this logic, does that mean Disney is continually shelling out cash for companies at a price higher than their current value? Presumably in hopes of increasing future revenues?
-
-Thanks in advance!","Why, Disney, DIS","WHY.V,DIS,DIS"
-38,Broad market news,stocks,"BLS jobs report, missed: 209k vs 225k expected",41,0.95,"&gt; Total nonfarm payroll employment increased by 209,000 in June, and the unemployment rate changed little at 3.6 percent, the U.S. Bureau of Labor Statistics reported today.
-
-&gt; **Employment continued to trend up in government, health care, social assistance, and construction.**
-
-&gt; This news release presents **statistics from two monthly surveys.** The household survey measures labor force status, including unemployment, by demographic characteristics.
-
-&gt; The establishment survey measures nonfarm employment, hours, and earnings by industry.
-
-&gt; Both the **unemployment rate, at 3.6 percent, and the number of unemployed persons, at 6.0 million, changed little in June.** The unemployment rate has **ranged from 3.4 percent to 3.7 percent since March 2022**.
-
-Learn more how [BLS conducts their surveys here.](https://www.bls.gov/news.release/empsit.tn.htm)
-
-Stock index futures were initially up when the BLS report came out, came back down, and back up (whipsaw in both directions).
-
-Still too early to call how the market will react to the jobs report today; considering the market reacted negatively with yesterday's ADP blowout report which seemed like an over heated economy would force FOMC to raise rates more, but with this report missing expectations, FOMC might keep their scheduled rate increases or even reduce them.
-
-edit: [BLS report link](https://www.bls.gov/news.release/empsit.nr0.htm)",BLS,BLSP
-39,,stocks,(7/7) Friday's Pre-Market Stock Movers &amp; News,46,0.9,"#Good Friday morning traders and investors of the r/stocks sub! Welcome to the final trading day of the week. Here are your pre-market movers &amp; news on this Friday, July the 7th, 2023-
-
-*****
-
-#[Stock futures are little changed as investors look toward Friday jobs report: Live updates](https://www.cnbc.com/2023/07/06/stock-market-today-live-updates.html)
-
-*****
-&gt; Stock futures were little changed Friday morning, as investors refocused their attention on the upcoming June jobs report and the implications for the Federal Reserve’s policy stance.
-*****
-&gt; Futures tied to the Dow Jones Industrial Average and S&amp;P 500 futures were flat. Nasdaq-100 futures slipped by 0.2%. Levi Strauss shares tumbled 7% as the denim giant cut its profit outlook for the year.
-*****
-&gt; This week’s main event for economic data looms ahead: the Labor Department’s June payrolls report, which is due Friday morning. Economists polled by Dow Jones anticipate an increase of 240,000 positions, a cooldown from May’s gain of 339,000 jobs.
-*****
-&gt; Investors are on high alert for signs that the central bank will tighten policy even further. Traders now forecast a 91% chance the Fed will raise rates at its July meeting, according to the FedWatch tool from CME Group. Policymakers indicated at their June gathering that two more rate hikes could be ahead in 2023.
-*****
-&gt; “The Fed is signaling a willingness to keep tightening, but markets aren’t convinced it will happen as much as the Fed projects,” Kathy Jones, chief fixed income strategist for the Schwab Center for Financial Research, wrote in a bond market update. “The gap between the peak rate implied by the dot plot and market expectations has narrowed but hasn’t closed.”
-*****
-&gt; The major averages slipped Thursday after data from ADP showed that private sector employers added 497,000 jobs in June. That figure far exceeded the 220,000 estimate from economists polled by Dow Jones.
-*****
-&gt; The ADP results spurred worries about the Fed’s next steps. Bond yields spiked during regular trading Thursday, with the rate on the 2-year Treasury — which is most sensitive to the central bank’s policy —touching its highest level since 2007. Stocks also fell, as the 30-stock Dow shed more than 1%. The S&amp;P 500 and the Nasdaq Composite slid about 0.8% each.
-*****
-&gt; The three major averages are on their way to a losing week. The S&amp;P 500 is off by about 0.9%, while the Nasdaq is on pace for a 0.8% decline. The Dow is the underperformer of the three, tracking for a 1.4% loss.
-
-*****
-
-#STOCK FUTURES CURRENTLY:
-######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
-
-*****
-
-# YESTERDAY'S MARKET MAP:
-######(**[CLICK HERE FOR YESTERDAY'S MARKET MAP!](https://i.imgur.com/g68YoMU.png)**)
-
-*****
-
-# TODAY'S MARKET MAP:
-######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx)**)
-
-*****
-
-#YESTERDAY'S S&amp;P SECTORS:
-######(**[CLICK HERE FOR YESTERDAY'S S&amp;P SECTORS CHART!](https://i.imgur.com/4n8AsU5.png)**)
-
-*****
-
-#TODAY'S S&amp;P SECTORS:
-######(**[CLICK HERE FOR TODAY'S S&amp;P SECTORS CHART!](https://finviz.com/groups.ashx)**)
-
-*****
-
-#TODAY'S ECONOMIC CALENDAR:
-######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/rh12XKR.png)**)
-
-*****
-
-#NEXT WEEK'S ECONOMIC CALENDAR:
-######(**[CLICK HERE FOR NEXT WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/OWX8zmj.png)**)
-
-*****
-
-#NEXT WEEK'S UPCOMING IPO'S:
-######(**[CLICK HERE FOR NEXT WEEK'S UPCOMING IPO'S!](https://i.imgur.com/UTnac0r.png)**)
-
-*****
-
-#NEXT WEEK'S EARNINGS CALENDAR:
-######(**[CLICK HERE FOR NEXT WEEK'S EARNINGS CALENDAR!]()**)
-(T.B.A. THIS WEEKEND.)
-
-*****
-
-#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
-(*N/A.*)
-######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!]()**)
-
-*****
-
-#EARNINGS RELEASES BEFORE THE OPEN TODAY:
-######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES!](https://i.imgur.com/E8hCXx7.png)**)
-
-*****
-
-#THIS AFTERNOON'S AFTER-HOURS EARNINGS CALENDAR:
-######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS CALENDAR!]()**)
-(N/A.)
-
-*****
-
-#EARNINGS RELEASES AFTER THE CLOSE TODAY:
-######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](https://i.imgur.com/iiPvbBK.png)**)
-
-*****
-
-#YESTERDAY'S ANALYST UPGRADES/DOWNGRADES:
-######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #1!](https://i.imgur.com/rEYqUZw.png)**)
-######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #2!](https://i.imgur.com/jYgiHJb.png)**)
-
-*****
-
-#YESTERDAY'S INSIDER TRADING FILINGS:
-######(**[CLICK HERE FOR YESTERDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/AoquS3Q.png)**)
-
-*****
-
-#TODAY'S DIVIDEND CALENDAR:
-######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/tm1x6Dd.png)**)
-######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/i32OA6B.png)**)
-
-*****
-
-#THIS MORNING'S STOCK NEWS MOVERS:
-
-######(**source: [cnbc.com]()**)
-
-*****
-
-&gt; **(TO BE POSTED LATER THIS MORNING.)** — (TO BE POSTED LATER THIS MORNING.).
-
-&gt; #**STOCK SYMBOL:** (TO BE POSTED LATER THIS MORNING.)
-
-&gt; * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=SPY&amp;ty=c&amp;ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&amp;p=d&amp;s=l)
-
-&gt; ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](https://www.cnbc.com/quotes/SPY)**)
-
-*****
-
-#**DISCUSS!**
-
-What's on everyone's radar for today's trading day ahead here at r/stocks?
-
-*****
-
-# **I hope you all have an excellent final trading day of this week ahead today on this Friday, July 7th, 2023! :)**","Friday, Pre, Market, Stock, Movers, News","FRDY.V,PRE,SANGHVIMOV.NS,NWSA"
-40,,stocks,"r/Stocks Daily Discussion &amp; Fundamentals Friday Jul 07, 2023",29,0.85,"This is the daily discussion, so anything stocks related is fine, but the theme for today is on fundamentals, but if fundamentals aren't your thing then just ignore the theme and/or [post your arguments against fundamentals here](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+semiannual+arguments+against+TA%22&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) and not in the current post.
-
-Some helpful day to day links, including news:
-
-* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks
-* [Bloomberg market news](https://www.bloomberg.com/markets)
-* StreetInsider news:
-  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips
-  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news
-
------
-
-Most fundamentals are updated every 3 months due to the fact that corporations release earnings reports every quarter, so traders are always speculating at what those earnings will say, and investors may change the size of their holdings based on those reports.  Expect a lot of volatility around earnings, but it usually doesn't matter if you're holding long term, but keep in mind the importance of earnings reports because a trend of declining earnings or a decline in some other fundamental will drive the stock down over the long term as well.
-
-See the following word cloud and click through for the wiki:
-
-[Market Cap - Shares Outstanding - Volume - Dividend - EPS - P/E Ratio - EPS Q/Q - PEG - Sales Q/Q - Return on Assets (ROA) - Return on Equity (ROE) - BETA - SMA - quarterly earnings](https://www.reddit.com/r/stocks/wiki/fundamentals-themed-post)
-
-If you have a basic question, for example ""what is EBITDA,"" then google ""investopedia EBITDA"" and click the Investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned.
-
-Useful links:
-
-* [Investopedia page](https://www.investopedia.com/fundamental-analysis-4689757/) on fundamental analysis including [Discounted Cash Flow](https://www.investopedia.com/university/dcf/) analysis; see [definition here](https://www.investopedia.com/terms/d/dcf.asp) and read [their PDF on the topic.](http://i.investopedia.com/inv/pdf/tutorials/fundamentalanalysis_intro.pdf)
-* [FINVIZ](https://finviz.com/quote.ashx?t=aapl) for fundamental data, charts, and aggregated news
-* [Earnings Whisper](https://www.earningswhispers.com/stocks/aapl) for earnings details
-
-See our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&amp;restrict_sr=on&amp;sort=new&amp;t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) Friday.","Stocks, Daily, Discussion, Fundamentals, Friday, Jul",FRDY.V
-41,Advice Request,stocks,TD Ameritrade App Replacement,12,0.72,"Hi,
-I'm looking for suggestions for an app instead of TD Ameritrade. I'm shocked how not user friendly the Schwab app is. What platforms are similar to Ameritrade? Are E-Trade or Merrill edge any good?
-(Just to clarify, I'm talking about the regular TD Ameritrade app, not think or swim)
-Thanks","TD, Ameritrade, App, Replacement","TD,APP"
-42,Advice Request,stocks,I have a panic selling problem,0,0.27,"So I’m not old enough for a job where I live (I have a custodial account) and I have only $17 available for investing, whenever something loses like 15 cents I sell immediately fearing I’m gonna lose “a lot of money”. I’m wondering how can I stop this and how control myself.",,
-43,Correction / False,stocks,"When you REALLY stop and think about it, the stock market is amazing.",0,0.5,"It has always been this way that there are as many people buying as there are selling on any given day.  No matter the volume level, this is true.  Granted certain events spark more action than others, but even on the most boring days, there is someone to take the other side of every trade execution.  Maybe this is not so amazing, but it is to me.  Sellers think it is time to sell and buyers think the opposite.","When, REALLY",WHEN
-44,Company Question,stocks,How are we feeling about Intel?,91,0.79,"I bought Intel earlier last month because I felt like the company was undervalued. It is America's Semiconductor and shows a lot of potential with the Ai-chip making industry. I am, however, aware that the company financials over the past 4 quarters haven't really been the best. I am curious as to what other investors think because I heard a lot about NVDA and AMD, but I think this could be a diamond in the ruff. Thoughts?
-
-Do you believe this stock is undervalued? Fairly valued and have potential for growth?","How, Intel","HWM,INTC"
-45,News,StockMarket,China has 20% Gen Z unemployment...that's not good.,193,0.9,"The last thing you want in a country without voting is economic pain and [*20% unemployment for your youth*](https://www.goldmansachs.com/intelligence/pages/why-has-youth-unemployment-risen-so-much-in-china.html?utm_source=bootlegmacro.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=the-dow-jones-better-not-f-ck-up-next-week). China has both right now.
-
-Does this lead so something terrible happening in China? Remember when they were rising up in Hong Kong in 2019 and in 2022 about the Covid Lockdowns? 
-
-This has to impact the stock market in the USA by causing world instability.","China, Gen",GEN
-46,Newbie,StockMarket,What happens in a situation where a stock is delisted from NASDAQ?,6,0.8,"There is a company called Nxu (NXU), formerly Atlis Motor Vehicles (AMV) that has been notified that they will be delisted from the NASDAQ (I think in September) and I am just wondering what usually happens to your shares when this occurs. I know they still exist with the company but it seems like it would be hard to sell them or find people that would want to buy them.
-
-Also, I am wondering if anyone has any experience with situations like this in general. Is it common for companies in this position to have their stock price go to zero and go bankrupt? Will people likely start pulling all of their money out of the stock as the delisting date approaches?
-
-Thanks for any insight.","What, NASDAQ",WHATS.BR
-47,News,StockMarket,A Decline in Household Savings could point to a recession,86,0.86,,"Decline, Household, Savings","EJH,NSAV"
-48,Newbie,StockMarket,What’s better than or similar to Robinhood?,3,0.64,"A couple years ago I played around with Robinhood as an extreme beginner in the stock market and very small investments (like $5-$20 deposits on pay day, $1 purchases here and there). I liked the ui a lot but I’ve heard not great things about robinhood like holding onto money and stuff like that but I also liked that I could withdrawal without penalties at any time.
-I’ve been not investing in anything but our 401k since then but thinking about doing it again. 
-Is Robinhood worth it with the amount of money I’d be messing around with or is there something better to use?","What, Robinhood","WHATS.BR,HOOD"
-49,Discussion,StockMarket,"Ladies and gentlemen, they have finally said it. “Predatory trading against short sellers” 😂😂😂",631,0.92,,"Ladies, Predatory",
-50,Meme,StockMarket,"First 100% in portfolio, some time back it was meme stock.",33,0.76,,First,FRCB
-51,Discussion,StockMarket,Is now a good time to buy Meta?,11,0.54,,"Is, Meta",META
-52,Discussion,StockMarket,"Beware of the Base Effect, after July the inflation rate is not so rosy",59,0.89,"The calculation of the inflation rate can be a bit tricky because it is measured on a year-over-year basis, making it highly sensitive to the base effect. The base effect refers to the inflation rate in the corresponding period of the previous year. If the inflation rate was very low in that period, even a small increase in the price index will result in a high rate of inflation now. Conversely, if the price index had risen significantly in the corresponding period of the previous year, a similar absolute increase in the price index now will show a lower inflation rate.
-
-While this may seem like a minor mathematical detail, it has a profound impact on our understanding of inflation and can potentially mislead us about the likelihood of reaching the Federal Reserve's target of 2% inflation or even fuel deflation concerns.
-
-Between July 2021 and July 2022, the cost of goods and services (in absolute terms, expressed in dollars) increased sharply (as shown by the red line) but at a significantly slower pace (as shown by the green line) after July 2022.
-
-[Image 1. CPI \($\). Source: FRED \(adapted\). ](https://preview.redd.it/plknmbelpkab1.png?width=1280&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=35b909047eb0c0ca293d961fffc9a2dbb1bdc548)
-
-In order to calculate the inflation rate over the past 11 months, we  have been comparing prices from the red line with prices from the green  line. Due to the substantial difference between these trends, it becomes  easy to reduce the inflation rate, as depicted in the next image (Image  2: CPI YoY %).
-
-[Image 2. CPI YoY \(&amp;#37;\). Source: yCharts.com \(adapted\)](https://preview.redd.it/3gufhiyppkab1.png?width=1254&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d2d09959128041aab5211154a59071b0c6679628)
-
-It's important to note that prices were not decreasing in absolute terms, and despite the positive headlines regarding inflation reduction, what you are observing is primarily the base effect at play. So, contrary to what individuals benefiting from inflation, such as Elon Musk and Cathie Wood, may have told you, we are not even close to experiencing a deflationary process.
-
-Starting from July 2023, the inflation rate will be calculated using CPI data (Image 1) from the green line only. As a result, it will become increasingly difficult to achieve lower inflation rates. Reaching an inflation rate lower than 3% will be nearly impossible unless significant demand destruction occurs in the near future.
-
-Historically, achieving significant demand destruction without causing a recession has been challenging. It is possible to reach the 2% target or avoid a recession, but achieving both simultaneously is highly unlikely.","Beware, Base, Effect, July","BASE,EFTR"
-53,Help Needed,StockMarket,Why is this candle so long?,38,0.76,,Why,WHY.V
-54,Technical Analysis,StockMarket,Head shoulders knees and toes.,12,0.73,"Head, shoulders, knees and toes, knees and toes. Not happy about GOOGL….",Head,HWX.TO
-55,News,StockMarket,This rally may be a repeat of 2008’s ‘Bull Trap’ says Bank of America,279,0.9,,"This, Bull, Trap, Bank, America","TPC1.SG,BAC,BAC"
-56,Meme,StockMarket,"CPI - July 12, 2023 (DXY up and Gold down)",3,0.6,,"CPI, July, DXY, Gold",DXYN
-57,Resources,StockMarket,"Trending Stocks Jul 07, 2023 10:09 am",4,0.75,"Trending Stocks Jul 07, 2023 10:09 am
-
-[https://marketwirenews.com/trending-stocks/](https://marketwirenews.com/trending-stocks/)  
-
-
-OGI up 287.47% | Organigram Holdings Inc.  
-CSTL up 42.7% | Castle Biosciences Inc.  
-NUZE up 21.71% | NuZee Inc.  
-TMC up 15.27% | TMC the metals company Inc.  
-TTOO up 12.77% | T2 Biosystems Inc.  
-TOP up 11.39% | Zhong Yang Financial Group Limited  
-SOPA up 9.93% | Society Pass Incorporated  
-SDC up 9.27% | SmileDirectClub, Inc. - Ordinary Shares - Class A  
-WIMI up 9.09% | WiMi Hologram Cloud Inc.  
-KALV up 8.49% | KalVista Pharmaceuticals Inc.  
-IREN up 8.21% | Iris Energy Limited  
-RIOT up 7.75% | Riot Blockchain Inc  
-RIVN up 7.68% | Rivian Automotive Inc.  
-AI up 6.68% | Arlington Asset Investment Corp Class A  
-HBM up 6.59% | Hudbay Minerals Inc.  
-BABA up 5.78% | Alibaba Group Holding Limited American Depositary Shares each representing one  
-PTRA up 5.33% | Proterra Inc  
-SIFY up 5.32% | Sify Technologies Limited  
-PSNY up 5.05% | Polestar Automotive Holding UK Limited  
-YELL up 5.03% | Yellow Corp (New) Com","Trending, Stocks, Jul",
-58,News,StockMarket,China Ends Probe of Jack Ma-Backed Ant With $984 Million Fine,91,0.95,,"China, Ends, Probe, Jack, Ma, Backed, Ant, With, Million, Fine","6627.T,JACK,MA,AR,FBK.MI"
-59,Meme,StockMarket,😂😂,1054,0.91,,,
-60,Discussion,StockMarket,Inflation is under control. Why the market could keeping going up.,0,0.48,,"Inflation, Why",WHY.V
-61,Meme,StockMarket,"July 7th, 2023 - NFP &amp; Unemployment Data",4,0.83,,"July, NFP, Unemployment, Data",DDOG
-62,Discussion,StockMarket,What are the arguments for a bull market as student loans are unpaused?,21,0.7,"I understand it is being taken into account already but I don’t think enough. I know I also may just not be looking at it right and wanted opinions to better follow why the market is more bullish now. According to Forbes about 1.3 trillion in student loans were paused until end of summer. Also, credit card debt, car loans, and mortgage debt are also at record levels as far as I can tell (I couldn’t tell you with inflation how the numbers look).
-It just seems like the market will almost need to falter as people need to move their stock and investment reserve into these interest building debt piles they have. Or since it’s all banks and companies making money, will the “rich” keep the market standing is the hope?",What,WHATS.BR
-63,News,StockMarket,Big guys are coming for Tesla,112,0.85,,"Big, Tesla","BIG,TSLA"
-64,Technical Analysis,StockMarket,"Bears had their day… 7-6-23 SPY/ ES Futures, QQQ and VIX Daily Market Analysis",1,0.56,"Friendly reminder- I am trading tomorrow opening hour but will be busy and only mobile trading most of the day tomorrow… it will be spotty but I will be around. I will have a pre market and my weekly TA up at night time. 
-
-Well after what looked like a day that could go either way we got some pretty strong economy data and market algos took that as an opportunity to dump… now of course though that dip was bought right up… 
-
-&amp;#x200B;
-
-https://preview.redd.it/nozru0g7peab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=7ce70d0fb4b1272d163ced0bb220af80ba7071b4
-
-Tomorrow we get the all important unemployment data… IF we see an uptick in UE we can almost guaranteed a pump…. If that UE is lower than expected we likely will see a huge dump again. 
-
-**SPY DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/71lccbv7peab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=7e269a296c6984bdb4c8c844519f47f8b8cc80f7
-
-Today we finally put that supply in that we were looking for… there is a new supply at 443.14 which now takes out 442.55 supply… we now have a huge no mans land from here to 431.37 demand. 
-
-From a strictly supply and demand stand point… I would lean bearish over bullish… only because we haven’t actually put in a new daily demand and DMI is still in the process of waving down. While this could tomorrow bounce green and turn todays candle body low of 439.43 into a new demand if you are taking a trade off that you are guessing not waiting for confirmation. 
-
-I see two scenarios… we either continue to the 20ema near 435.51 tomorrow and likely tomorows candle body low will become a new demand…. Or we do indeed turn 439.43 into a new demand tomorrow and look to push back to 443.14 and potentially 447.02. 
-
-**SPY DAILY PRICE ACTION** 
-
-&amp;#x200B;
-
-https://preview.redd.it/7ksw3ra8peab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d9a262785f410de21361386467730c8fe41c1ed4
-
-Price action wise its 50/50 here again… 
-
-On a bearish stand point we did break through the black bull channel we have been in since the first week of May. We also closed below the daily 8ema. That with a new daily supply and daily dmi wave down all would make me feel bearish. 
-
-However, on a bullish stand point we finally gap filled last weeks gap, we bounced before the daily 20ema and have a massive wick on this abandoned baby candle… this candle should result in a reversal back to the upside. 
-
-SPY DAILY LEVELS  
- Supply- 443.14 -&gt; 447.02  
- Demand- 431.37 -&gt; 429.86  
- Support- 438 -&gt; 435.9 -&gt; 432.3  
- Resistance- 439.8 -&gt; 441.3 -&gt; 443.1
-
-**FUTURES DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/dfeeepr8peab1.png?width=870&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=2a1451d58a42062305a44a7afa618966e96d3eb0
-
-We also here finally get that supply we have been looking for. With a double top and new daily supply at 4493 with a daily DMI wave down our next target should be either 4374 demand or a new daily demand. That would lean us bearishly for tomorrow. 
-
-**FUTURES DAILY PRICE ACTION** 
-
-&amp;#x200B;
-
-https://preview.redd.it/dz6g3p69peab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=99fe77bb0ab1aab45928b8b08ee629daaf4222cb
-
-Futures daily here also broke through its bull channel support that dates back to first week of May. Now this daily candle structure is much different and we actually have move of a hanging man candle than doji… this one doesn’t look as strong bullish/ reversal like as SPY to me…
-
-We also did close under the daily 8ema here too. With no new daily demand and daily dmi waving down the general thesis would be bearish but bulls very well could turn immediately around and double bottom us off 4448. That then would set up a very bullish next week. 
-
-FUTURES DAILY LEVELS  
- Supply- 4492 -&gt; 4312  
- Demand- 4374 -&gt; 4537  
- Support- 4447 -&gt; 4434 -&gt; 4414 -&gt; 44374
-
-**QQQ DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/rq8yckm9peab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d3c422f029a465a5be855bd73a8ba2b2b979578c
-
-QQQ did put in a new daily supply today also but the biggest difference is that we actually reconfirmed a previous supply (370.39) as supply… that now makes this 370.39 area a major resistance to watch. 
-
-QQQ has that similar daily hanging man/ dragonfly doji candle set up that would make one believe in an upside push tomorrow… however without a daily demand or daily DMI wave up it is very speculative still… 
-
-QQQ daily did break that yellow bull channel for the first time since April 19th… with that support broken… we now find ourselves in the green bull channel. 
-
-QQQ did actually hold and close over its daily 8ema… this is a very 50/50 daily here… For me I lean bearish until a new daily demand is put in. 
-
-QQQ DAILY LEVELS  
- Supply- 371.41 -&gt; 370.39 -&gt; 357.09  
- Demand- 357.6 -&gt; 377.48
-
-**VIX**
-
-&amp;#x200B;
-
-https://preview.redd.it/z8wujm5apeab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3db2291cc0042b00e6bfb10e818dc63032bb3e01
-
-The VIX had a monstrous day today and took out the 16.06 demand… the VIX was up about 20% at its peak I believe… 
-
-However, today once again because a buy the dip moment and as you can see the VIX just completely unwound. So where does this leave us… well if you remember I have said that if SPY and VIX have opposing candle patterns which spy has a bullish reversal set up and now the VIX has a bearish reversal set up (massive evening doji star) then the odds would actually be slightly better for a green day tomorrow on SPY. 
-
-I do see a scenario if we get the green SPY bounce tomorrow that the VIX would unwind… if the VIX unwinds we likely put in a new supply at 15.46 which then we would look to take out 15.01 -&gt; 14.51 and 14.1 supplies tomorrow or early next week. 
-
-If we see SPY put in a new daily demand and the VIX put in a new daily supply then I would be fairly bullish as we head into next week and CPI next week. 
-
-**DAILY TRADING LOG** 
-
-&amp;#x200B;
-
-https://preview.redd.it/uydhpwoapeab1.png?width=889&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b29c763783c7556fad33f35ebe2d5e510cf02741
-
-I took a ton of trades today… 25 I believe… was able to put in another small green day today too… 
-
-Today was a bit of an experiment for me… as you can see I traded SPX and QQQ… so spx has been struggling a lot lately and well I have been wanting to trade QQQ for a while now just to see if I could get in on it better or not…
-
-Today was a learning experience for sure as QQQ does interact with the EMAs on 1, 5 and 15min slightly differently and also I noticed the overall movement can be less smooth compared to SPY… but the biggest thing I noticed is that actually compared to spy I actually had a higher win rate and more profits… now granted its only one day… 
-
-A few other things I noted today is that I basically while almost always entering spy and qqq together doubled my position size on accident/ purpose… 
-
-A few things of struggle this morning… the early trades in the day I had my 5% stop loss on still and that was far too tight and led to basically 2 immediate stop loss hunts… 
-
-I struggled a little bit this morning mostly as I was looking for the v bottom recovery that came much later… the biggest struggle today honestly was stop loss. I bit terribly into the bear trap around 130 (which does make me more bullish for later) but the worse part about that is the fact that I had calls for the breakout around 2pm and I had some really nice 5-6% profits on my SPY and QQQ calls… in the end call it being trusting or being greedy but I didn’t secure them and well we got massive stop loss hunted before it ripped… I was able to jump back into some calls and win back the loss and then some but still frustrating…
-
-That honestly is the hardest thing about these level to level plays is that you have to hold with conviction to the next level… however you cant hold with such conviction like I did that you end up letting a green play go red… the other fine line is stop losses… you want them tight enough that you dont get massive losses that you cant recover but also not so tight that you get hunted all the time… 
-
-Overall the last two days were a good stride in the right direction… haven’t had back to back green days since June 14th and 15th…. Now again I recognize not the greenest of days and I had a few different opportunities to close with about $200-300 in profits but continued to trade… however, every day is a learning experience and I continue to learn more about these L2L plays and how to properly capitalize on them. 
-
-I am indifferent on whether I will continue to trade QQQ or not… in the end QQQ and SPY move honestly very similar together. One could argue that QQQ is too much noise… but one could also argue that they and their options move far enough different to justify it… I will continue to trade both and continue to see what happens… I did enjoy that there were quite a few times that I noticed SPY would not push up and it was due to the fact that short term (1/5 min) QQQ was in a bearish movement… they move together enough that its worth keeping an eye on both… I will have to monitor next week whether I feel is worth trading both at the same time like I did today… tomorrow I will focus soley on SPX as I will be mobile and only using my laptop. ","Bears, SPY, ES, Futures, QQQ, VIX, Daily, Market, Analysis",ES
-65,News,StockMarket,"Nobel laureate Paul Krugman dismisses Elon Musk’s economic predictions, calling them conspiracy theories by a ‘recession truther’ | Fortune",128,0.84,,"Nobel, Paul, Krugman, Elon, Musk, Fortune","AKZA.AS,SBS,FBIN"
-66,Discussion,StockMarket,Dividend investing,6,0.87,"Hi, I’m 28 years old currently regularly invest into vanguard ftse global all cap as well as the HSBC equivalent. My dividends are automatically reinvested. I am aware of certain high dividend stocks, however I would like to start investing into some high dividend funds due to less risk exposure. Is it a wise strategy to keep doing what I’m doing, or start small positions monthly into high dividend funds each month so by the time i retire I have a large chunk of money in a dividend fund. Obviously no has a crystal ball but does it make sense to do this now, or my money to a high dividend fund when I’m older - based on history what would be the smartest thing to do here?
-
-If it is to start with the dividend funds now, is there a consensus of the best ones to go for? I am somewhat of a novice when it comes to divvy stocks but do they have more stable prices then you make the money from the dividends themselves, or are these types of stocks just as up and down as the rest of the market?
-
-I guess given where interest rates are for fixed rate savings atm too the dividend yield would play a bigger factor…",Dividend,
-67,Discussion,StockMarket,Long term picks in my opinion that will rebound and be at a greater price than now,30,0.72,Any comments of what’s good/bad. Open to any,Long,
-68,Education/Lessons Learned,StockMarket,Investing and Money from Groucho Marx,7,0.67," **1. “Between my horrible poker play and the ’29 stock market crash, it took many years to gain the smarts to keep my investing simple.”** 
-
- 2. I **was once walking around the New York Stock Exchange when one of the traders on the floor asked me: “Groucho, how do you invest your money?” I answered: “All in bonds.” The trader asked: “But Groucho, they don’t pay much return.” I said: “They do when you have a lot of em!”** 
-
-3. **Groucho: Do you know that property values have increased 1929 to 1,000 percent? Unidentified Woman: You told me about this yesterday. Groucho: I know, but I left out a comma.”**  
-
-4. **“What do you think the government does with your \[tax\] money? Spends it on a woman? Gets drunk? Or plays the ponies? That’s what you might do with the money, or if you have to get personal, what I do.”** 
-
- 5. **“I made a killing on Wall Street a few years ago. I shot my broker. And not a moment too soon. He was about to commit suicide.”**  
-
-6. **“I find television very educational. Every time someone switches it on I go into another room and read a good book.”** ","Investing, Money, Groucho, Marx",MARX
-69,Discussion,StockMarket,"Got a RemindMe! from 9 months ago predicting the S&amp;P would drop another 30%. Since this post, we're up 15%",194,0.95,,"Got, RemindMe, Since","GOTU,2605.TW"
-70,Discussion,StockMarket,With a shrinking police force will there be a need for persons and companies to spend more on their own safety &amp; security?,1,0.52,"Police Departments across the USA are unable to hire or retain officers. Crime is going up and may continue to get worse.  Will this lead to persons and companies being forced to take a much more proactive part in their own safety and security?  If calling 911 does not work and you own a car dealership, rental community, etc. what do you do?  Hire/rent your own security force, buy more security lighting, alarms, etc.  What publicly traded companies stand to grow in the next 10 years as this plays out? Considering all areas... technology, crime prevention,  ballistic glass, etc.  What stocks do you like with this in mind?  Is there a thematic ETF for this?",With,
-71,Technical Analysis,StockMarket,Bearish reversal! Do you buy?,1,0.54,"#peri
-Please send comments","Bearish, Do",DO
-72,News,StockMarket,ChatGPT’s Website Traffic Down 9.7% from June as AI Fatigue Sets In: Report - Tokenist,438,0.94,,"ChatGPT, Website, Traffic, Down, June, AI, Fatigue, Sets, In, Report, Tokenist","KTCG.VI,CHDN,GJUN,AI,HSPG.OL,TSLA"
-73,News,StockMarket,Bearish?,0,0.5,,Bearish,
-74,News,StockMarket,Meta Up 1.86% Premarket as Threads Gathers 10M Users in 7 Hours - Tokenist,6,0.67,,"Meta, Up, Premarket, Threads, Gathers, Users, Hours, Tokenist","META,UP"
-75,Technical Analysis,StockMarket,Just Give 15 min to this technical Stock Market pattern Chart before you start trading.... It will help to trade at much better positions.,0,0.45,,"Just, Give, Stock, Market, Chart, It","GIVX.TO,CHTR,IT"
-76,Meme,StockMarket,Y’all jumping on the “Threads” (IG Twitter clone) app? 🤔,559,0.84,,"Threads, IG, Twitter",
-77,Discussion,StockMarket,Users are spending more than 2x the time on TikTok than on Instagram. TikTok is proving to be a much bigger problem for $META even post-pandemic.,57,0.91,,"Users, TikTok, Instagram, TikTok, META",META
-78,Discussion,StockMarket,Good or bad,0,0.5,,Good,GOOD
-79,Technical Analysis,StockMarket,"Post-FOMC Minutes… whats next? 7-5-23 SPY/ ES Futures, QQQ and VIX Daily Market Analysis",15,0.81,"Well we officially got fomc minutes and relatively speaking it has to be one of the most BORING fomc minutes I have ever seen…
-
-Here are some highlights from the minutes…
-
-·  Fed Minutes: Some participants indicated they favored or could have supported raising the target rate 25 basis points.
-
-· FED: ALMOST ALL OFFICIALS EXPECTED MORE RATE INCREASES IN '23
-
-· Fed Minutes: Those favoring an increase noted very tight labor market, stronger-than-anticipated economic momentum, little evidence of inflation being on a path to return to 2% target over time.
-
-· Fed Minutes: Fed staff saw a mild recession as likely to start later this year, same as in may minutes.
-
-· Fed Minutes: All participants agreed maintaining a restrictive stance would be appropriate.
-
-· Fed Minutes: Almost all participants stated that upside risks to inflation outlook or possibility inflation expectations might become unanchored remained key to policy outlook.
-
-· FED MINUTES: 'SOME' FAVORED HIKE, BUT WENT ALONG WITH PAUSE
-
-· Fed Minutes: A few participants noted potential for upward pressure on money market rates as treasury increased bill issuance, which might lead to lower use of on RRP facility.
-
-&amp;#x200B;
-
-https://preview.redd.it/yswt394im7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=5391302eefaabb4009aac024e83b8ce03d2e9112
-
-&amp;#x200B;
-
-https://preview.redd.it/by30ekhim7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=83970391b4095fb6c97fc57a61b29b90178d6fe0
-
-The biggest thing I see here from FOMC Minutes is we really got no new information… nothing really unexpected… however, I do find it interesting that so many were okay with a rate hike despite the pause…
-
-Now looking at the next two months of Cleveland fed inflation nowcast…. Next Wednesday is already CPI! We believe it or not…. Are actually expected to see a nearly 2% drop! That’s insane… So how are markets going to react when we a 2% drop when currently a 25bps rate hike is expected? 
-
-Now what I really care about is that CORE CPI YoY is only expected to come down by 0.2% at most and CORE MoM actually will likely be unchanged… if you remember the fed had mentioned that they care far more about CORE right now as that obviously is having a lot more trouble unwinding that actual CPI is…
-
-&amp;#x200B;
-
-https://preview.redd.it/3yudxxwim7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=110acf89bfe195fb79b556035893cef79d8447a3
-
-Pretty important data day tomorrow… see how markets react after FOMC minutes… 
-
-&amp;#x200B;
-
-https://preview.redd.it/lqftbxajm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=bb2207e5aa0bb080bcd1bf317fe96c70f62bee3d
-
-Because I enjoy analyzing trends… of the last 5 post FOMC minute days (October 12th was actually CPI day so I don’t really count that)… 2 out of 5 opened red and we average a 0.39% +/- open…. We also closed red only 2 out of 5 times… 
-
-Whats super intriguing to me… the days FOMC minutes closed red… spy has actually closed green the next day and vice versa… trend would suggest a red closure today on SPY means green closure and open tomorrow… 
-
-**SPY DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/bwemhdpjm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d93ac09c8293799baa6b81b05705489b8ecfadd1
-
-Well I was looking for a new daily supply to be put in today and there was a few different times we were attempting to… however, we did not get a new daily supply… Though what I find most interesting is the fact that we did start a daily DMI wave down though…
-
-I was pretty tempted to swing some puts overnight but I ended up not since there was no new daily supply… as of right now support remains at 442.55 and next resistance is 447.02 until a new supply is put in… 
-
-**SPY DAILY PRICE ACTION** 
-
-&amp;#x200B;
-
-https://preview.redd.it/2ubvgl5km7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a62f061265da9fda5c6df02cbc252b731f2a790e
-
-Not much going on right now on SPY daily… I do see a potential M pattern setting up here though… if it does set up and play out we could look to target 429.8 next week. 
-
-We actually interestingly enough and painfully enough have closed within a $2.45 cent range for the last 3 trading days now. 
-
-Overall we continue to ride the daily 8ema support upward and after 5 green days in a row we did (barely) get a red closure today. Looking for a small sell off and potential gap fill before we continue our push upward. Honestly it feels like SPY is pretty much in no mans land and no direction land right now. 
-
-A closure under 441.4 tomorrow and I start to target 438.1… closure over 443.9 and im looking for 447. 
-
-SPY DAILY LEVELS  
- Supply- 442.55 -&gt; 447.02  
- Demand- 431.37  
- Support- 441.4 -&gt; 438.1   
- Resistance- 443.9 -&gt; 447
-
-**ES FUTURES DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/ecvm9wmkm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d7add4e53558d13c50209d20be1a39e6b176f5e6
-
-We also did not get a new futures daily supply today but we did get the daily DMI wave down… it actually is a bit intriguing seeing ES bounce off the daily 8ema like this and bounce off that 4469 supply. 
-
-**ES FUTURES DAILY PRICE ACTION**
-
-&amp;#x200B;
-
-https://preview.redd.it/xnr2o83lm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3af0a4278814bcb28f90978e7503f278f073e53a
-
-Similar pattern here on futures, however, the big difference I am seeing here is that we actually have a double top with a bearish engulfing candle… now generally I would say this is bearish… however, this one actually is looking bullish… and here is why.
-
-Generally a double top means we fall lower… however, we actually are back testing and holding the Friday resistance and turning that into support at 4283 and we also closed out a hammer candle… this bounce and wick off the daily 8ema with a back test to turn previous resistance into support is actually bullish… there is a very real possibility we bounce off the 4283 area and double bottom to clos over 4494 tomorrow. 
-
-FUTURES DAILY LEVELS  
- Supply- 4469  
- Demand- 4374 -&gt; 4537  
- Support- 4483 -&gt; 4434   
- Resistance- 4505 -&gt; 4537
-
-**QQQ DAILY SUPPLY AND DEMAND** 
-
-&amp;#x200B;
-
-https://preview.redd.it/3uv04hzlm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=f25a3914d014e2e05c90f7537366044c070adb93
-
-QQQ actually managed an impressive 0.00% close today… technically a red day due to the -$0.01 drop… but I actually find myself a little more bearish on QQQ than I do SPY… we are looking at a really nice double top off this 370.39 supply and really if you look at the June 15th candle this is now a triple top… 
-
-We however on QQQ did not start a daily wave down on DMI nor did we get a new daily supply… QQQ from that stand point could actually see further upside before downside… 
-
-However, as long as bears hold this under 370.39 supply my target remains the downside. 
-
-A drop tomorrow could and would reconfirm this 370.39 supply… that would be very bearish and a strong resistance level to watch. 
-
-Since June 12th QQQ has closed within a $15.2 or about 4.25% range every day…. SPY has closed in the same time period within a $12.6 or about 2.93% range… 
-
-For me I would not long QQQ until we close over 370.39 (but really 371.41) and I wouldn’t short this until an official new supply is put in. 
-
-**VIX**
-
-&amp;#x200B;
-
-https://preview.redd.it/7oobbxfmm7ab1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=80a1da9d4e91c28fa5e09530f5ae23b85532977f
-
-I had mentioned that the VIX had indeed put a new daily demand in at 13.5 and that my target would be 14.1 to 14.51 on the VIX… that pretty much played out perfectly and we nearly hit that 15.01 supply… 
-
-The VIX actually has a pretty textbook bearish abandoned baby reversal candle set up here… which means the VIX very well could gap down tomorrow. The VIX with a red day tomorrow and honestly with this massive upside gravestone doji candle it should be expected… will put in a new supply at 14.21 which then takes out 14.1 supply… we then would start to target 13.5 on the VIX. 
-
-It is very notable that the VIX rejected and failed to close over the daily 20ema. 
-
-**DAILY TRADING LOG** 
-
-&amp;#x200B;
-
-https://preview.redd.it/218hswxmm7ab1.png?width=778&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=ff1fd80691e0fdf11f764d8ce9a9ad9a751993ff
-
-Quite the roller coaster of a day today… the morning (prior to 1130) honestly started off really good and I was pretty satisfied with things. However then it just got choppy and untradeable… 
-
-The worst time of the day for me was around 1230. After an incredibly convincing and what I would call an A++ set up I entered a call and pretty much out of no where spy went on a massive drop and stopped me out… Of course me being silly and expecting continuation of trend I then entered puts after things looked strong to the down side and was then of course stopped out… 
-
-Without those two plays that honestly not much you can do when things dump out of no where or things don’t continue… today woulda been a really solid day… 
-
-End up with a small green day… but overall I would say mentally today was a good day from a confidence stand point… I did play things pretty well a few times and read some entries and exits nicely… Premiums once again did not reward us very much which should be expected when we are barely moving $2 intraday. 
-
-One big change I did make today was I initially moved my stop loss from -10% to -7%... generally speaking lately on these plays it seems I am either 100% correct or 100% wrong… after the first 2 or 3 plays I ended up just looking at a -5% stop loss as my new standard. 
-
-I used 5dte today which is technically 3 dte today and I did like the movement on them. I did feel I could have used 2dte a few different times but I also don’t want to be on too short of a dte… the DTE is something I will continue to monitor over time… as of right now 3rd day expiration appears to be a nice sweet spot… honestly SPY as a whole just needs to see some actual intraday movement. ","Post, FOMC, Minutes, SPY, ES, Futures, QQQ, VIX, Daily, Market, Analysis","POST,FOMC,ES"
-80,News,StockMarket,Meet the CEOs Who Pull In More Than $100 Million a Year,133,0.75,,"Meet, CEOs, Who, Pull, In, More, Than, Million, Year","CEOS,COST,TSLA,THANGAMAYL.NS"
-81,Help Needed,StockMarket,SPY vs VOO,7,0.77,"Currently looking to start buying in on the S&amp;P 500. I realize it’s probably due for a pullback but I’m wanting to at least start dipping my toe in case I’m wrong. Whatever I buy I’m looking to hold for a long time, which brings me to my issue. This is for a retirement, taxable account so I’d rather not have to play the sell everything anytime recession fears start to gain traction. Because of this I was thinking about buying SPY as I can buy covered puts on it when I’m all in with my allocation. This would help ease fears of a downside, but only result in a sale if the market actually went down hard. VOO seems to have a lower cost associated to it, but from my understanding options aren’t as easy to trade on it. I just don’t want to get in a scenario where every 5-10 years something is working it’s way through the economy and I’m having to try and decide if it’s a good time to sell, I also don’t want to use options like a degen. Would love some feedback on what’s a good move to make.","SPY, VOO",
-82,Technical Analysis,StockMarket,Question about timing the market,0,0.33,"Hi all, I’m looking to get into the s&amp;p but everyone is saying the market will fall soon. I have a lump sum I want to invest and my instinct is to wait until prices drop but all the experts say timing the market is dumb. 
-
-My question is: how is it better to buy in now when it seems that a correction is very near? Even if it doesn’t come for a few years, isn’t it better to buy in at $330 in a year or two, than to buy in at $400 today, assuming that it’s a 6 figure sum? 
-
-People say that missing the best 10 days in the market would cost you dearly, but I don’t understand how that makes sense. If I buy in at $10 and it goes to $100 one day and then drops to $5, how did the best day help me? 
-
-Thanks in advance and forgive my ignorance.",Question,
-83,News,StockMarket,Market could move in either direction today,10,0.73,,Market,
-84,News,StockMarket,"Meta's Threads Can Have a Larger User Base than Twitter, But There's a Catch - Tokenist",0,0.45,,"Meta, Threads, Can, Have, Larger, User, Base, Twitter, But, There, Catch, Tokenist","META,CAN,HVT,BASE,0K4.F,2474.TW"
-85,Discussion,StockMarket,Is this the correct way to interpret this chart? Supply and Demand?,1,0.53,,"Is, Supply, Demand","TSCO,DMAN"
-86,Meme,StockMarket,Jerome Powell helped light the firework 😂,139,0.9,,"Jerome, Powell",POWL
-87,News,StockMarket,"Experts are predicting inflation, a recession, and the potential end of the dollar era. Meanwhile, the CNN Fear and Greed Index indicates that we are currently in the Extreme Greed zone 😄.",173,0.8,,"Experts, Meanwhile, CNN, Fear, Greed, Index, Extreme, Greed","4417.T,CNNE,EXTR"
-88,News,StockMarket,Tesla's Electrifying Surge due Second-Quarter Deliveries and Production Numbers.,0,0.38,"Tesla's Electrifying Surge due Second-Quarter Deliveries and Production Numbers.
-
-Tesla on July 3rd soared by 6.9% after reporting a staggering 83% year-over-year growth in deliveries during the second quarter. (Source: [investors.com](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-deliveries-hit-record-market-rally-back-at-highs/))
-
-The company delivered 66,140 vehicles in Q2 which was more than 83% higher Year-over-Year and up 10% from the preceding quarter. Moreover, the company has increased vehicle production to nearly 480,000 in the same period. (Source: [Tesla](https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-second-quarter-2023))
-
-The company's  Models 3 and Y accounted for 96% of sales. The company also makes the Model S and X. (Source: [Tesla](https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-second-quarter-2023))
-
-The company has lowered prices in markets including the US, China, and UK to compete with rival manufacturers. Elon Musk CEO of Tesla believes that it is a strategic choice to be a volume manufacturer and focus on higher sales. (Source: [Tesla](https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-second-quarter-2023))
-
-Apart from slashing prices across the lineup earlier this year, Tesla also introduced perks, such as 3 months of free fast-charging in the US for cars delivered before June 30, to entice buyers. (Source: [Fortune](https://fortune.com/2023/07/02/tesla-breaks-deliveries-record-elon-musk-price-cuts/))
-
-Capital at risk | Sophisticated Investors only  
-
-
-Visit us: [www.graniteshares.com](http://www.graniteshares.com/)
-
-\#Tesla #TeslaStock #TSLA #ElectricVehicles #EV #TeslaInvestors","Tesla, Electrifying, Surge, Second, Quarter, Deliveries, Production, Numbers","TSLA,SURG,OSBC"
-89,Discussion,StockMarket,"Is Ray, Larry's brother? Bullish on CHWY? I'm sensing serious Ace Ventura vibes here..",0,0.45,,"Is, Ray, Larry, Bullish, CHWY, Ace, Ventura","RTX,CHWY,ACRX,VENTURA.BO"
+,Titles,Author,Date
+344,Why Verizon's Stock Plunged 7.5% Today,Travis Hoium,2023-07-17
+329,Aehr Test Systems' Earnings Call: 2 Key Things Investors Should Know,Beth McKenna,2023-07-17
+330,1 Thing Smart Investors Know About SoFi Stock,"Parkev Tatevosian, CFA",2023-07-17
+331,Best Dividend Stocks to Buy: Ford vs. AT&T,"Parkev Tatevosian, CFA",2023-07-17
+332,Why Telecom Stocks Missed Monday's Market Rally,Dan Caplinger,2023-07-17
+333,Best EV Stocks: Nio vs. XPeng vs. Li Auto,"Parkev Tatevosian, CFA",2023-07-17
+334,"Believe it or Not, Bus Travel is Back",The Daily Upside,2023-07-17
+335,"Mr. Kerry Goes to Beijing Amid China's Hotter Climate, Cooler Economy",The Daily Upside,2023-07-17
+343,Why Stagwell Stock Leaped Almost 11% Higher Today,Eric Volkman,2023-07-17
+337,Why Artificial Intelligence (AI) Stock C3.ai Crushed the Market Today,Eric Volkman,2023-07-17
+338,Best Growth Stocks to Buy: Cloudflare vs. Confluent,"Parkev Tatevosian, CFA",2023-07-17
+339,Is Intel Coming for Nvidia in This Key Market?,Jose Najarro,2023-07-17
+340,Great News for Domino's Stock and Uber Stock Investors,"Parkev Tatevosian, CFA",2023-07-17
+341,Best AI Stocks to Buy: Palantir vs. Tesla vs. Microsoft,"Parkev Tatevosian, CFA",2023-07-17
+342,Why Alnylam Pharmaceuticals Topped the Market Today,Eric Volkman,2023-07-17
+336,EU Commission Turns Antitrust Eye on Microsoft Teams,The Daily Upside,2023-07-17
+227,Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought,Rick Munarriz,2023-07-18
+226,Better AI Biotech Stock: Schrödinger vs. Recursion Pharmaceuticals,Alex Carchidi,2023-07-18
+225,Half of Americans Think They'll Be in Debt for Up to 5 Years. Here's How to Break the Cycle Sooner,Maurie Backman,2023-07-18
+224,Want Safe Income? This Stock Raised Its Dividend in the Last 8 Recessions,Marc Rapport,2023-07-18
+223,The Retirement Mistake That Costs 4 in 10 People Thousands of Dollars,Justin Pope,2023-07-18
+222,Should You Buy This Dividend-Growth Machine for Your Portfolio?,Kody Kester,2023-07-18
+219,"Barry Diller Suggests 25% Hollywood Pay Cuts: Are Netflix, Disney, and Warner Brothers in Trouble?",Anders Bylund,2023-07-18
+220,Why This Gambling Stock May Be Worth Rolling the Dice On,Adam Spatacco,2023-07-18
+228,"Coca-Cola Stock: Buy, Sell, or Hold?",Stefon Walters,2023-07-18
+218,Why Delta Air Lines Stock Is a Strong Buy Post-Earnings,Lee Samaha,2023-07-18
+217,Is It Too Late to Buy Rapid7 Stock?,Leo Sun,2023-07-18
+216,Here's How Realty Income Can Afford Its 5% Dividend Yield,"Brent Nyitray, CFA",2023-07-18
+221,2 Top Warren Buffett Stocks to Buy Right Now,Anders Bylund,2023-07-18
+229,Compounding Your Wealth Through Dividends,"Mark Roussin, CPA",2023-07-18
+236,What These 2 Big Bank Stocks Are Saying About the Bull Market,Dan Caplinger,2023-07-18
+234,"Microsoft Announces New Cybersecurity Products, but Are Small Security Software Stocks Really in Trouble?",Nicholas Rossolillo,2023-07-18
+235,Should You Tap Your Retirement Fund to Pay Off a HELOC?,Maurie Backman,2023-07-18
+215,Why Applied Materials Is One of the Top Semiconductor Stocks to Own,Jose Najarro and Billy Duberstein,2023-07-18
+237,The Trade Desk Stock Has Absolutely Skyrocketed. Time to Sell?,Daniel Sparks,2023-07-18
+238,Etsy Shrinks Its House of Brands by Dumping Elo7,Timothy Green,2023-07-18
+239,4 Lessons From My First 100-Bagger,Gilbert Symington,2023-07-18
+240,Here's What Happens When You Make a Higher Down Payment on a Home,Maurie Backman,2023-07-18
+241,Are Stimulus Payments Gone for Good?,Maurie Backman,2023-07-18
+242,How I Lived Rent-Free for a Month at a Resort Beach,Chris Neiger,2023-07-18
+243,2 Bargain-Basement Stocks to Buy With No Hesitation,Matthew DiLallo,2023-07-18
+244,Is It Too Late to Buy Opera Limited Stock?,Leo Sun,2023-07-18
+245,Is PubMatic Stock a Buy Now?,Robert Izquierdo,2023-07-18
+246,How to Know When It's Time to Refinance Your Home,Dana George,2023-07-18
+247,Here's What Happens When Your Emergency Fund Is Too Big,Steven Porrello,2023-07-18
+233,2 Cathie Wood Growth Stocks That Could Make You Richer,George Budwell,2023-07-18
+214,2 Dividend-Paying Tech Stocks to Buy Right Now,Anders Bylund,2023-07-18
+211,2 Top AI Stocks Ready for a Bull Run,Harsh Chauhan,2023-07-18
+212,Verizon and AT&T: Time to Be Greedy or Is the Dividend at Risk?,Neil Rozenbaum,2023-07-18
+175,Why Novartis Stock Spiked Today,George Budwell,2023-07-18
+176,Why Visa Stock Was Down Today,Dave Kovaleski,2023-07-18
+177,I Keep Part of My Emergency Fund in a CD. Here's Why,Maurie Backman,2023-07-18
+178,Why Microsoft Rallied to an All-Time High Today,Billy Duberstein,2023-07-18
+179,Why Charles Schwab Stock Surged 12% on Tuesday,Rich Smith,2023-07-18
+180,Is Iger Really Breaking Up Disney?,Travis Hoium,2023-07-18
+181,We Considered Selling Our Home. Here Are 3 Financial Reasons Why We're Going to Wait,Natasha Gabrielle,2023-07-18
+182,Why Shares of Cabaletta Bio Are Up Tuesday,Jim Halley,2023-07-18
+183,Dollar Tree Is Cutting Some Prices Back to $1 -- but Don't Get Too Excited Yet,Dana George,2023-07-18
+187,The Surprising Reason You May Want to Cancel Amazon Prime,Maurie Backman,2023-07-18
+188,Cathie Wood Crushed the Market in the First Half. Here's How You Can Follow Her Lead.,Adria Cimino,2023-07-18
+189,"Why Shares of Bank of America, Morgan Stanley, and PacWest Bancorp Are Rising Today",Bram Berkowitz,2023-07-18
+190,This Blue Chip Insurance Stock Plummeted 13% In 1 Day: Should Investors Be Concerned?,Courtney Carlsen,2023-07-18
+191,Why Prologis Stock Was Slipping Today,Jeremy Bowman,2023-07-18
+192,Why Shares of Masimo Are Dropping Tuesday,Jim Halley,2023-07-18
+193,Pay Raises Beat Inflation for First Time in 2 Years. Is the End in Sight?,Emma Newbery,2023-07-18
+194,Why Pinterest Stock Popped on Tuesday,Rich Smith,2023-07-18
+248,"If You Invested $10,000 in BlackBerry in 2008, This Is How Much You Would Have Today",Leo Sun,2023-07-18
+210,Got $4? This Hot Growth Stock Looks Like a Top Buy Right Now,Harsh Chauhan,2023-07-18
+206,Why Rivian Stock Raced Higher Today,Scott Levine,2023-07-18
+205,Why Shares of Acumen Pharmaceuticals Are Down Tuesday,Jim Halley,2023-07-18
+204,Is Apple Stock a Buy?,Dani Cook,2023-07-18
+203,Disney World's Top Rival Wants to Have a Blast This Summer,Rick Munarriz,2023-07-18
+213,Here's What to Expect from the FTC's Investigation Into OpenAI,Jake Lerch,2023-07-18
+202,Here's What Happens When Your Home Sits on the Market Too Long,Maurie Backman,2023-07-18
+200,Is Costco Dropping Bud Light?,"Matthew Frankel, CFP®",2023-07-18
+199,"Why Shares of Alibaba, JD.Com, and Tencent Are Falling Today",Bram Berkowitz,2023-07-18
+198,"These 4 Travel Hacks Blew My Mind. They Could Save You Money, Too",Emma Newbery,2023-07-18
+197,Why Teladoc Health Was Climbing Today,Jeremy Bowman,2023-07-18
+196,1 Green Flag and 1 Red Flag for AI Stocks,Jake Lerch,2023-07-18
+195,"Rivian's Roaring Ahead on Tuesday, but This Financial Stock Is Pure Money",Dan Caplinger,2023-07-18
+201,1 in 10 Americans Think They'll Be in Debt for the Rest of Their Lives,Maurie Backman,2023-07-18
+249,Be Careful With This Red-Hot AI Stock,Timothy Green,2023-07-18
+252,Should You Buy This Thriving Dividend King Stock?,Kody Kester,2023-07-18
+251,1 Monster Opportunity in the Global Chip Shortage,Stefon Walters,2023-07-18
+293,3 Financial Stocks That Shine on the Bottom Line,Stefon Walters,2023-07-18
+294,"2 Spectacular Growth Stocks That Could Turn $250,000 Into $1 Million by 2033",Anthony Di Pizio,2023-07-18
+295,"Are Last Year's Stock Splits for Amazon, Google, and Tesla Paying Off Now?",Keith Speights,2023-07-18
+296,"Disney's TV Business Is on the Chopping Block, According to CEO: What It Could Mean for the Company",James Brumley,2023-07-18
+297,Cava Stock Has More Than Doubled Since Its IPO: Could It Make You Richer?,Justin Pope,2023-07-18
+298,"Move Over, FAANG: 1 Unstoppable ""Magnificent 7"" Stock to Buy Hand Over Fist",Anthony Di Pizio,2023-07-18
+302,Domino's Stock Is Down Over the Last 3 Years. Here's Why the Next 3 Years Should Be Better.,Jon Quast,2023-07-18
+303,3 Warren Buffett Stocks That Everyone Should Own,Royston Yang,2023-07-18
+304,Better Dividend Stock: IBM vs. HP,Leo Sun,2023-07-18
+305,The Average American Has This Much Debt. How Does Yours Compare?,Maurie Backman,2023-07-18
+306,1 Green Flag and 1 Red Flag For Medtronic,Adria Cimino,2023-07-18
+307,Is It Too Late to Buy Eli Lilly Stock?,Cory Renauer,2023-07-18
+308,JPMorgan Chase Shows Why It's the Best-Run Bank in the U.S.,Courtney Carlsen,2023-07-18
+309,"This Supercharged Growth Stock Is Down 91%, and I Just Added It to My Portfolio -- Here's Why",Sean Williams,2023-07-18
+292,1 Magnificent Growth Stock Down 39% You'll Regret Not Buying on the Dip,"Parkev Tatevosian, CFA",2023-07-18
+310,The Next Chipotle? Here's Why Cava Is an Unstoppable Stock.,Danny Vena,2023-07-18
+312,1 Thing Savvy Investors Know About Nikola Stock,"Parkev Tatevosian, CFA",2023-07-18
+313,1 Crucial Factor Intelligent Investors Know About Palantir Stock,"Parkev Tatevosian, CFA",2023-07-18
+314,Is It Too Late to Buy Canoo Stock?,Leo Sun,2023-07-18
+315,The FTC Is Investigating OpenAI -- Here's the Worst Possible Outcome for Investors,Jeremy Bowman,2023-07-18
+316,3 Reasons to Buy Snowflake Stock Despite Its Valuation,Will Healy,2023-07-18
+317,2 Top Growth Stocks to Buy Right Now and Hold for the Long Term,Justin Pope,2023-07-18
+318,5 Charts That Suggest We're Witnessing an Epic Bear Market Rally,Sean Williams,2023-07-18
+319,History Says the Stock Market Is Headed Higher in 2023: 2 Remarkable Growth Stocks to Buy Before the Bull Market Begins,Trevor Jennewine,2023-07-18
+320,The 1 Social Security Conversation All Married Couples Should Have,Maurie Backman,2023-07-18
+321,4 Signs You Need to Upgrade Your Credit Card,Lyle Daly,2023-07-18
+325,Here's What Happens to Your Salary When You Change Careers,Maurie Backman,2023-07-18
+326,"1 Spectacular Growth Stock That Could Join Apple, Microsoft, Amazon, and Others in the $1 Trillion Club","Parkev Tatevosian, CFA",2023-07-18
+327,Best Dividend Stocks to Buy: 3M vs. Deere,"Parkev Tatevosian, CFA",2023-07-18
+328,"What Does Tesla's Charging Deal With Ford, GM, and Rivian Mean for ChargePoint Stock?","Parkev Tatevosian, CFA",2023-07-18
+311,"2 Beaten-Down Growth Stocks That Could Turn $200,000 Into $1 Million by 2033",Cory Renauer,2023-07-18
+250,Planning to Pass On Wealth to Your Grandchildren? 4 Things to Do Now,Marc Rapport,2023-07-18
+291,Huge News for Canoo Stock Investors,"Parkev Tatevosian, CFA",2023-07-18
+289,Why Is Everyone Talking About Lucid Stock Right Now?,"Parkev Tatevosian, CFA",2023-07-18
+256,A Bull Market Is Coming: 1 Incredible Growth Stock Down 34% to Buy Now and Hold Forever,Keith Noonan,2023-07-18
+257,Alibaba Is Trading Close to Its Lowest Valuation Ever -- Here's Why,Lawrence Nga,2023-07-18
+258,2 Stocks Down 85% With Massive Upside,Keithen Drury,2023-07-18
+259,2 High-Powered Stocks to Buy to Cash In on This Unstoppable Force,Matthew DiLallo,2023-07-18
+174,Why Uber Stock Popped on Tuesday,Eric Volkman,2023-07-18
+261,Watch Out: Cava Stock Could Crash by 70% or More,Timothy Green,2023-07-18
+262,Ball Aerospace Is for Sale. How Much Is It Worth?,Rich Smith,2023-07-18
+263,Home Equity Loan or Personal Loan? Which Is Best for You?,Dana George,2023-07-18
+264,3 Signs You Should Ditch Your Costco Membership and Join Sam's Club Instead,Maurie Backman,2023-07-18
+265,3 No-Brainer Stocks to Buy Right Now for Less Than $90,Jeff Santoro,2023-07-18
+266,2 Things the Smart Investors Know About Roku Stock,Lawrence Nga,2023-07-18
+267,SoFi Stock Is Soaring but There's a Bigger Question to Ask,Neil Rozenbaum,2023-07-18
+268,These 2 Underappreciated Mini-Berkshires Are Absolute Bargains,Gilbert Symington,2023-07-18
+269,Better Dividend Stock to Buy: Verizon vs. Coca-Cola,"Parkev Tatevosian, CFA",2023-07-18
+290,Social Security: 2 Sneaky Ways You Could Be Missing Out on Benefits,Katie Brockman,2023-07-18
+270,"With ChatGPT Under FTC Scrutiny, It's Time to Bet on Safer AI",Timothy Green,2023-07-18
+272,Here's What Happened When I Referred My Parents for the Chase Sapphire Preferred Card,Margo Winton Parodi,2023-07-18
+273,This Discounted Stock Is the Cheapest It's Been in Years,Keithen Drury,2023-07-18
+274,Huge News for Amazon Stock Investors,"Parkev Tatevosian, CFA",2023-07-18
+275,Nvidia Just Invested $50 Million in This Biotech -- Should You Buy It?,Alex Carchidi,2023-07-18
+279,Should Bank Investors Worry About a Commercial Real Estate Crisis?,"Matthew Frankel, CFP®",2023-07-18
+280,3 Under-the-Radar Tech Stocks to Buy In 2023,Jeff Santoro,2023-07-18
+281,5 Semiconductor Equipment Stocks to Buy as the Chip Market Is Poised to Rebound,Jose Najarro and Billy Duberstein,2023-07-18
+282,3 Great Dividend Stocks You Can Buy for Less Than $50,Collin Brantmeyer,2023-07-18
+283,Warren Buffett's Investing Advice Could Make You a Stock Market Millionaire,Trevor Jennewine,2023-07-18
+284,Where Will Palantir Technologies Be in 3 Years?,Leo Sun,2023-07-18
+285,Apple vs. Microsoft: Which Is the Better Dividend Stock?,Daniel Sparks,2023-07-18
+286,Here's What Happens When You Keep Your Emergency Fund in a CD,Maurie Backman,2023-07-18
+287,"I Could Afford an Extra $1,000 a Month in Mortgage Payments. Here's Why I'm Staying Put",Maurie Backman,2023-07-18
+288,4 Growth Stocks Ready to Make a Comeback,Jose Najarro,2023-07-18
+271,3 Expert Tips to Pay Off Your Student Loans Within the Decade,Maurie Backman,2023-07-18
+260,Is a Living Trust the Most Financially Savvy Way to Pass Inheritance to Your Family?,Marc Rapport,2023-07-18
+173,Here's What Happens When You Put Off Pet Insurance for Too Long,Maurie Backman,2023-07-18
+171,Why Netflix Stock Zoomed Almost 6% Higher Today,Eric Volkman,2023-07-18
+159,"7 Remarkable Stocks That Could Join Apple, Microsoft, Nvidia, Amazon, and Alphabet in the $1 Trillion Club",Eric Cuka,2023-07-18
+160,Why Enovix Stock Topped the Market on Tuesday,Eric Volkman,2023-07-18
+164,These 2 Dow Stocks Led the Market Higher Tuesday,Dan Caplinger,2023-07-18
+165,The US Housing Market is Nearly Non-Existent,The Daily Upside,2023-07-18
+172,Why MongoDB Shares Rallied Today,Billy Duberstein,2023-07-18
+167,This Year's Biggest Startup is a $1.85 Billion Hedge Fund,The Daily Upside,2023-07-18
+168,Why UnitedHealth Stock Shot Higher on Tuesday,Eric Volkman,2023-07-18
+169,Why Transocean Stock Triumphed on Tuesday,Eric Volkman,2023-07-18
+170,Graham Stephan Believes This Is the 'Worst' Financial Mistake Young People Make. Is He Right?,Lyle Daly,2023-07-18
+166,The UK Is Going Big on Small Nuclear Reactors,The Daily Upside,2023-07-18
+58,Is This Recent IPO Stock the Next Starbucks or Chipotle?,Eric Volkman,2023-07-19
+57,"Wayfair Stock: Buy, Sell, or Hold?",Demitri Kalogeropoulos,2023-07-19
+56,Here's My Top Growth Stock to Buy Right Now,Stefon Walters,2023-07-19
+55,Getting a Divorce? This Is What Will Happen to Your Retirement Accounts,Dana George,2023-07-19
+54,Here's How Tanger Can Afford Its 4.3% Dividend Yield,"Brent Nyitray, CFA",2023-07-19
+53,Microsoft's New AI Subscription May Actually Live Up to the Hype,Daniel Sparks,2023-07-19
+50,Should You Buy the 3 Highest-Paying Dividend Stocks in the Dow Jones?,Reuben Gregg Brewer,2023-07-19
+51,Warren Buffett Is Selling Activision Stock Before the Microsoft Acquisition Closes. Should You?,Keith Speights,2023-07-19
+49,ASML Reported a Beat and Raised Guidance. Why Is the Stock Down?,Neil Rozenbaum,2023-07-19
+45,"Carnival Cruise Lines: Buy, Sell, or Hold?",Rick Munarriz,2023-07-19
+59,Microsoft Plans to Charge Big for AI. Will Users Pay?,Danny Vena,2023-07-19
+44,2 Top Dividend Stocks You Can Buy and Hold Forever,Royston Yang,2023-07-19
+43,This Is Why I'm Not All-In on Stocks,Chuck Saletta,2023-07-19
+52,2 Growth Stocks Wall Street Analysts Think Can Double in Value,David Jagielski,2023-07-19
+60,Better Cybersecurity Stock: CyberArk vs. Tenable,Leo Sun,2023-07-19
+65,The 4 Top Financial Priorities for People in Their 40s and 50s,David Chang,2023-07-19
+62,"If a New Bull Market Is Coming, Don't Make These 3 Expensive Mistakes",Marc Rapport,2023-07-19
+63,"Here's How I'd Invest $10,000 Today",David Jagielski,2023-07-19
+64,Chipotle to Open in the Middle East: Could This Magnificent Growth Stock Skyrocket Even More?,Jon Quast,2023-07-19
+42,Why Nvidia Stock Jumped on Tuesday After Microsoft Announced New AI Solutions,Jose Najarro,2023-07-19
+66,Here's How to Fix Your Credit Mistakes,Dana George,2023-07-19
+67,America's Richest Families Are Changing Up Their Investments. Here's Why,David Chang,2023-07-19
+68,Is Zillow the Best Housing Stock?,Travis Hoium,2023-07-19
+72,"Prediction: These 2 Growth Stocks Will Join Apple, Amazon, Alphabet, Nvidia, and Microsoft in the $1 Trillion Club",Trevor Jennewine,2023-07-19
+73,Is It Time to Buy the Dow Jones' 3 Worst-Performing Stocks This Year?,Jeremy Bowman,2023-07-19
+74,"You Can't Control Dividend Cuts, but You Can Control What You Do About Them",Dave Kovaleski,2023-07-19
+75,How to Calculate the Amount of Money You'll Need in Retirement,Dave Kovaleski,2023-07-19
+76,Here's What Happens When You Refinance a Mortgage With Poor Credit,Maurie Backman,2023-07-19
+77,3 Signs You're Throwing Money Away on Amazon Prime,Maurie Backman,2023-07-19
+78,Rubber Hits the Road at Fisker,Travis Hoium,2023-07-19
+61,2 AI Stocks Wall Street Loves,Anders Bylund,2023-07-19
+41,Global-e Online: A Growth Stock With a Bright Future,Rob Starks Jr,2023-07-19
+36,Why Amarin Stock Is Sinking Today,Keith Speights,2023-07-19
+39,Toast Stock Plunges After It Eliminates Controversial Fee,Jon Quast,2023-07-19
+15,The 2 Mega-Cap Stocks You Should Really Be Watching Wednesday,Dan Caplinger,2023-07-19
+14,"Why Shares of U.S. Bancorp, Northern Trust, and KeyCorp Are Rising Today",Bram Berkowitz,2023-07-19
+13,Why Virgin Galactic Stock Took Off Today,Rich Smith,2023-07-19
+12,Why ASML Holdings Fell Today,Billy Duberstein,2023-07-19
+11,Netflix's Cheapest Ad-Free Plan Is No Longer Available to New Subscribers,Natasha Gabrielle,2023-07-19
+10,Renting a Car Through Costco Travel? Don't Miss This Free Perk,Natasha Gabrielle,2023-07-19
+16,Why Salesforce Rallied Today,Billy Duberstein,2023-07-19
+9,Why Carvana Stock Skyrocketed Today,Gilbert Symington,2023-07-19
+7,Why Is Tesla Stock Down After Earnings? Is TSLA Stock a Buy Now?,Eric Cuka,2023-07-19
+6,Chinese Fast-Fashion Rivals Take Their US Market Fight to Court,The Daily Upside,2023-07-19
+5,Blackstone Races Toward $1 Trillion Milestone,The Daily Upside,2023-07-19
+4,Goldman Sachs' Profit Plunge Confirms a Woeful Consumer Strategy,The Daily Upside,2023-07-19
+2,2 Supercharged Dividend Growth Stocks Worth Buying Right Now,George Budwell,2023-07-19
+1,Better Pharma Buy: Viatris vs. Pfizer,Adria Cimino,2023-07-19
+8,Why Lemonade Stock Jumped Today,Jeremy Bowman,2023-07-19
+40,These 2 Stocks Are Soaring Wednesday Morning,Dan Caplinger,2023-07-19
+17,Teachers Can Get 60% Off a Sam's Club Membership Through Aug. 17,Natasha Gabrielle,2023-07-19
+19,The Federal Reserve Has Paused Rate Hikes. Here's What That Means for Home Equity Loan Borrowers,Maurie Backman,2023-07-19
+38,"2 Super Stocks That Could Join Apple, Microsoft, Nvidia, Alphabet, and Amazon in the $1 Trillion Club","Keith Noonan and Parkev Tatevosian, CFA",2023-07-19
+37,S&P 500 Bear Market: Time to Buy These Market-Beating Growth Stocks,Demitri Kalogeropoulos,2023-07-19
+79,Is Biogen Stock a Buy Now?,Prosper Junior Bakiny,2023-07-19
+35,Why Lucid Stock Charged Higher Today,Scott Levine,2023-07-19
+34,Hey Roku Investors: Celebrate the Price Hikes,Rick Munarriz,2023-07-19
+33,How Much Should Costco's $1.50 Hot Dog and Soda Combo Really Cost Based on Inflation?,Maurie Backman,2023-07-19
+18,"Why AT&T, Verizon, and Frontier Stocks All Bounced Back on Wednesday",Rich Smith,2023-07-19
+32,"4 Reasons a Housing Market Crash Is Actually Unlikely, According to Harvard Researchers",Dana George,2023-07-19
+30,Why Lumen Stock Is Rocketing Higher Today,Keith Noonan,2023-07-19
+29,Why Bluebird Bio Stock Is Taking Flight Today,George Budwell,2023-07-19
+28,Why Rivian Stock Powered Higher Today,Scott Levine,2023-07-19
+27,Why Shares of ImmunityBio Were Up on Wednesday,Jim Halley,2023-07-19
+26,"4 Side Hustles That Could Make You an Extra $10,000 by the End of the Year",David Chang,2023-07-19
+22,Why Archer Aviation and Joby Aviation Stocks Are Down Today,Lou Whiteman,2023-07-19
+31,Why Shares of Harrow Health Are Jumping Wednesday,Jim Halley,2023-07-19
+80,Is Nu Stock a Buy?,Jennifer Saibil,2023-07-19
+85,Microsoft Stock Jumps After Company Announced Partnership With Meta and New AI Solutions,Jose Najarro,2023-07-19
+82,"Got $5,000? These Are 2 of the Best Growth Stocks to Buy Right Now.",Bradley Guichard,2023-07-19
+125,When Is the Right Time to Take Over Your Elderly Parents' Finances?,Barbara Eisner Bayer,2023-07-19
+126,Are Barbie Dollars Driving Mattel Stock Higher? Here's the Surprising Answer.,Keith Speights,2023-07-19
+127,Will Verizon Communications Be a Trillion-Dollar Stock by 2050?,Leo Sun,2023-07-19
+128,Buy These 3 Supercharged Stocks While They're Still Absurdly Cheap,Jennifer Saibil,2023-07-19
+129,Is Enphase Stock Really Too Cheap to Ignore Right Now?,Nicholas Rossolillo,2023-07-19
+130,Where in the World is W. P. Carey's Portfolio?,Reuben Gregg Brewer,2023-07-19
+131,2 Energy Stocks That Could Lead the Next Bull Market,Reuben Gregg Brewer,2023-07-19
+132,Where Will Pinterest Stock Be in 5 Years?,James Brumley,2023-07-19
+133,"5 Super Easy Strategies to Save $10,000 Fast",Natasha Gabrielle,2023-07-19
+134,Biden's Backup Student Loans Plan: How Long Could His Plan B Take?,Keith Speights,2023-07-19
+135,Best Cathie Wood Stock to Own: Tesla vs. Twilio,"Parkev Tatevosian, CFA",2023-07-19
+136,Prediction: This Beaten-Down Stock Will Be a Biotech Giant by 2030,Adria Cimino,2023-07-19
+137,2 Dividend Stocks That Doubled Their Payouts in 5 Years,David Jagielski,2023-07-19
+141,A Bull Market Is Coming: 2 Growth Stocks Down 15% and 30% to Buy Right Now,Keith Noonan,2023-07-19
+142,Is It Too Late to Buy AMD Stock?,Will Healy,2023-07-19
+143,3 No-Brainer Stocks to Buy With $400 Right Now,Sean Williams,2023-07-19
+144,1 Artificial Intelligence Stock You Can Buy and Hold for the Next Decade,Bradley Guichard,2023-07-19
+158,Best Growth Stocks to Buy: Sonos vs. Fubo,"Parkev Tatevosian, CFA",2023-07-19
+157,Bad News for Ford Stock and Rivian Stock Investors,"Parkev Tatevosian, CFA",2023-07-19
+156,1 Factor Intelligent Investors Know About Carnival Stock,"Parkev Tatevosian, CFA",2023-07-19
+155,ChargePoint Has Set Its Eyes on This $192 Billion Opportunity,"Parkev Tatevosian, CFA",2023-07-19
+154,3 Reasons to Take Social Security at 62 -- and 1 Fantastic Reason to Wait,Katie Brockman,2023-07-19
+153,Should You Take Out a Personal Loan to Help Support a Family Member?,Dana George,2023-07-19
+124,2 Incredible Growth Stocks Up 61% and 52% to Buy Hand Over Fist,Rachel Warren,2023-07-19
+152,4 Money Rules to Follow if You Want to Be a Millionaire,Christy Bieber,2023-07-19
+150,Like Growing Dividend Income? This Blue Chip Stock Just Upped Its Payout by 6%,Kody Kester,2023-07-19
+149,The Trade Desk Stock: Bear vs. Bull,Harsh Chauhan,2023-07-19
+148,Why Is Disney Struggling? This Warren Buffett Quote Explains It Perfectly,Jeremy Bowman,2023-07-19
+147,Is It Too Late to Buy Microsoft Stock?,Dani Cook,2023-07-19
+146,64% of Americans Worry a Major Recession Is Imminent. Do This If You Feel the Same and Are Retiring Within 2 Years,Maurie Backman,2023-07-19
+145,A Bull Market Could Be Here: 3 Reasons to Buy Topgolf Callaway Stock,John Ballard,2023-07-19
+151,Wall Street Believes These High-Profile Stock-Split Stocks Can Lose Up to 91% of Their Value,Sean Williams,2023-07-19
+81,3 Healthcare Stocks to Buy and Hold for the Next 10 Years,Prosper Junior Bakiny,2023-07-19
+123,Is BlackRock Stock a Buy Right Now?,Kody Kester,2023-07-19
+121,Medical Costs May Rise by $500 Million This Year Because of...Pickleball,David Chang,2023-07-19
+83,4 Things I Wish I Knew When I Had a 515 Credit Score,"Robin Hartill, CFP®",2023-07-19
+84,A Bull Market Is Coming: 2 AI Stocks to Buy and Hold for 10 Years,Prosper Junior Bakiny,2023-07-19
+86,PepsiCo Just Raised Its Outlook Again: Time to Buy the Stock?,Demitri Kalogeropoulos,2023-07-19
+87,"Charles Schwab Tops Q2 Estimates Thanks to Management Fees, Despite Interest Income",James Brumley,2023-07-19
+88,Why I'm Not Worried About Verizon's 8%-Yielding Dividend,Matthew DiLallo,2023-07-19
+89,This 4.1%-Yielding Dividend Stock Just Got a Whole Lot Safer,Matthew DiLallo,2023-07-19
+90,"Why Do Student Loans Get So Out of Hand, and How Can I Avoid It?",Maurie Backman,2023-07-19
+91,Best Dividend Stocks to Buy: Target vs. Costco,"Parkev Tatevosian, CFA",2023-07-19
+95,3 Red-Hot Stocks to Profit From the Electrification of Everything Trend,Lee Samaha,2023-07-19
+96,Better Buy: Tyson Foods vs. Beyond Meat,Timothy Green,2023-07-19
+97,Can Shiba Inu Reach $1? This $589 Trillion Problem Stands In the Way,Anthony Di Pizio,2023-07-19
+98,Will Ethereum Be a Trillion-Dollar Cryptocurrency by 2025?,Dominic Basulto,2023-07-19
+99,3 Top Tech Stocks That Could Help Make You Rich by Retirement,Jennifer Saibil,2023-07-19
+100,3 Ways to Make the Most of Your Next Target Trip,Maurie Backman,2023-07-19
+101,Here's What Happens When You Keep Repairing an Aging Car,Maurie Backman,2023-07-19
+102,There Is More to GitLab Than Artificial Intelligence. Here's Why.,Adam Spatacco,2023-07-19
+103,Could BlackBerry Become the Next CrowdStrike?,Leo Sun,2023-07-19
+120,This Is the One Big Thing Ramit Sethi Misses About the Rent vs. Buy Debate,Christy Bieber,2023-07-19
+119,3 Stocks to Buy Now That Are Yielding 3.5% to 8.8%,Reuben Gregg Brewer,2023-07-19
+118,2 Safe Dividend Stocks to Beat Inflation,Reuben Gregg Brewer,2023-07-19
+114,Prediction: These Will Be 3 of the Most Valuable Stocks by 2050,Anthony Di Pizio,2023-07-19
+113,5 Things Retirees Need to Know About Income Taxes on Social Security Benefits,"Matthew Frankel, CFP®",2023-07-19
+112,"1 Warren Buffett ETF That Could Turn $200 Per Month Into $395,000",Katie Brockman,2023-07-19
+122,1 Chart That Tells You All You Need to Know About Tilray Brands' Biggest Problem,David Jagielski,2023-07-19
+111,2 Reasons Warren Buffett Would Really Hate Wayfair Stock,Jennifer Saibil,2023-07-19
+109,The People Who Bought My Home Came Back for Concessions After the Contracts Were Signed. Here's What I Did,Dana George,2023-07-19
+108,1 Growth Stock Down 7% to Buy Right Now,Demitri Kalogeropoulos,2023-07-19
+107,There's a Massive Housing Shortage in the U.S. – Could This Be the Solution?,"Matthew Frankel, CFP®",2023-07-19
+106,Don't Believe This Misconception About Working on Social Security,Maurie Backman,2023-07-19
+105,Virgin Galactic Announces Next Flight,Travis Hoium,2023-07-19
+104,Could This Be the Next Great AI Stock?,Keithen Drury,2023-07-19
+110,1 Thing That Could Derail the AI Revolution,Timothy Green,2023-07-19
+0,"Tesla Earnings Rise, but Margins Continue to Drop: 7 Metrics You Should See",Beth McKenna,2023-07-19
