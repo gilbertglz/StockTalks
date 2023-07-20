@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import re
 import re
-
+from main import exportToCSV
 import pandas as pd
 import requests
 
@@ -84,10 +84,14 @@ def redditScrape():
     df['Symbols'] = companySymbols
     print(df.to_string)
     exportToCSV(df)
+
+
 def extract_stock_tickers(text):
     regex_pattern = r'\b[A-Z$][A-Za-z0-9]+\b'  # Regex pattern to match uppercase letters (potential ticker symbols)
     matches = re.findall(regex_pattern, text)
     return ', '.join(matches)
+
+
 def find_company_ticker(company):
     url = f'https://query2.finance.yahoo.com/v1/finance/search?q={company}'
     headers = {'User-Agent': 'Mozilla/5.0'}

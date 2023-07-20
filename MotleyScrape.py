@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 from main import exportToCSV
 
+
 def motleyMultiplePages(soup):
     Titles, Authors, authorClean, Dates = [], [], [], []
     for tag in soup.find_all('h5', attrs="self-center mb-6 font-medium md:text-h5 text-md md:mb-4px"):
@@ -16,6 +17,7 @@ def motleyMultiplePages(soup):
         authorClean.append([x for x in (author.split('by ')) if x.strip() != ''][0])
     out = zip(Titles, authorClean, Dates)
     return out
+
 
 def motleyFoolScrape():
     url = "https://www.fool.com/investing-news/"
@@ -38,5 +40,3 @@ def motleyFoolScrape():
     Table = Table.sort_values(by=['Date'])
     print(Table.to_json())
     exportToCSV(Table)
-
-
